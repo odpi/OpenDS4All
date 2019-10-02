@@ -15,4 +15,4 @@ Anyone can contribute to this repository - learn more at [CONTRIBUTING.md](CONTR
 OpenDS4All is a project hosted by [ODPi](https://odpi.org). This project has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](governance.md).
 
 # Reporting Issues
-To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email zorow-private@lists.openmainframeproject.org.
+To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email odpi-opends4all-private@lists.odpi.org.
