@@ -6,21 +6,21 @@ This project aims to governed in a transparent, accessible way for the benefit o
 
 ## Contributor
 
-The contributor role is the starting role for anyone participating in the project and wishing to contribute code.
+The contributor role is the starting role for anyone participating in the project and wishing to contribute training materials (e.g. PowerPoint slides, Jupyter notebooks containg Python code and other documentation).
 
 # Process for becoming a contributor
 
-* Review the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines to ensure your contribution is inline with the project's coding and styling guidelines.
-* Submit your code as a PR with the appropriate DCO signoff.
+* Review the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines to ensure your contribution is inline with the project's coding, styling and other guidelines.
+* Submit your training materials as a Pull Request (PR) with the appropriate Developer Certificate of Origin (DCO) signoff.
 * Have you submission approved by the maintainer(s) and merged into the codebase.
 
 ## Committer
 
-The committer role enables the participation to commit code directly to the repository, but also comes with the responsibility of being a responsible leader in the community.
+The committer role enables the participation to commit training materials directly to the repository, but also comes with the responsibility of being a responsible leader in the community.
 
 ### Process for becoming a committer
 
-* Show your experience with the codebase through contributions and engagement on the community channels.
+* Show your experience with the training materials through contributions and engagement on the community channels.
 * Request to become a committer.
 * Have the majority of committers approve you becoming a committer.
 * Your name and email is added to the [COMMITTERS.csv](COMMITTERS.csv) file for the project.
@@ -31,7 +31,7 @@ The committer role enables the participation to commit code directly to the repo
 * Monitor Slack (delayed response is perfectly acceptable).
 * Triage GitHub issues and perform pull request reviews for other maintainers and the community.
 * Make sure that ongoing PRs are moving forward at the right pace or closing them.
-* In general continue to be willing to spend at least 25% of ones time working on the project (~1.25 business days per week).
+* In general continue to be willing to spend at least 10% of ones time working on the project (~4 business hours per week).
 
 ### When does a committer lose committer status
 
@@ -45,12 +45,14 @@ The TSC will consist of committers that will provide overall direction and leade
 
 Current TSC members are:
 
+- Andre de Waal ( chairperson )
 - Susan Davidson
-- Andre de Waal (chairperson) 
-- Zack Ives 
-- Kinga Szekessy 
-- ana M echeverri 
+- Zack Ives  
+- Ana Echeverri 
 - James Harroun
+- Goutam Chakraborty
+- Jennifer Priestley
+- Aric LaBarr
 
 # Release Process
 
