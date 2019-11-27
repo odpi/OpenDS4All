@@ -8,7 +8,7 @@ This project aims to governed in a transparent, accessible way for the benefit o
 
 The contributor role is the starting role for anyone participating in the project and wishing to contribute training materials (e.g. PowerPoint slides, Jupyter notebooks containg Python code and other documentation).
 
-# Process for becoming a contributor
+### Process for becoming a contributor
 
 * Review the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines to ensure your contribution is inline with the project's coding, styling and other guidelines.
 * Submit your training materials as a Pull Request (PR) with the appropriate Developer Certificate of Origin (DCO) signoff.
