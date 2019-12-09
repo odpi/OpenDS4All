@@ -68,8 +68,8 @@ The easiest way to create a pull request is by selecting your working branch, an
 5.2 Click Create pull request
 5.3 Enter the same title you used when you opened an issue ( in step 2 )
 5.4 Add the short desciption of the module to the text box below the title
-5.4 Add your DCO below the short description 
-5.5 Click Create pull request
+5.5 Add your DCO below the short description 
+5.6 Click Create pull request
 ```
 
 It is now up to the committers to review your contribution and make a decision whether the module will be incorporated into the repository or not.  
