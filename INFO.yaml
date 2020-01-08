@@ -1,0 +1,44 @@
+---
+project: 'OpenDS4All'
+project_creation_date: '2019-07-01'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &example_example_ptl
+    name: 'Andre de Waal'
+    email: 'andre.dewaal@ibm.com '
+    id: ''
+    company: 'IBM'
+    timezone: 'America/New_York'
+primary_contact: *example_example_ptl
+issue_tracking:
+    type: 'github'
+    url: 'https://github.com/odpi/OpenDS4All/issues'
+mailing_list:
+    type: 'groups.io'
+    url: 'opends4all-discuss@lists.odpi.org'
+    tag: '[]'
+realtime_discussion:
+    type: 'slack'
+    server: 'odpi.slack.com'
+    channel: '#opends4all'
+meetings:
+    - type: 'zoom'
+      agenda: 'https://github.com/odpi/OpenDS4All/tree/master/tsc/meetings'
+      url: 'https://zoom.us/j/719493232'
+      repeats: ''
+      time: ''
+repositories:
+    - OpenDS4All
+committers:
+    - <<: *example_example_ptl
+    - name: ''
+      email: ''
+      company: ''
+      id: ''
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'missing'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
