@@ -53,6 +53,7 @@ Current TSC members are:
 - Goutam Chakraborty
 - Jennifer Priestley
 - Aric LaBarr
+- David Mongeau
 
 # Release Process
 
