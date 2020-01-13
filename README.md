@@ -26,13 +26,16 @@ There are many ways to interact with this repository:
 The project's [governance principles](GOVERNANCE.md) clarifies the different roles and describes the processes for becoming a contributor, a committer or a TSC member.  
 
 # Contributing
-Anyone can contribute to this repository - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
+Anyone can contribute to this repository - learn more at [CONTRIBUTING.md](CONTRIBUTING.md). Follow the step-by-step instructions [COMMUNITY-GUIDE.md](COMMUNITY-GUIDE.md) to submit a module for possible inclusion into to repository.
 
 # Governance
 OpenDS4All is a project hosted by [ODPi](https://odpi.org). This project has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
 
 # Reporting Issues
 To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is senstive in nature or a security related issue, please do not report in the issue tracker but instead email odpi-opends4all-private@lists.odpi.org.
+
+# Learn More
+If you are interested in collaborating on the project, please [sign up](https://cloud.email.thelinuxfoundation.org/ODPi-OpenDS4All).
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
