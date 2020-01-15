@@ -59,5 +59,5 @@ __Comments__
 
 ## Notes
 
-* There is an absolute limit of 260 characters on the lenght of a file name
+* There is an absolute limit of 260 characters on the length of a file name
 
