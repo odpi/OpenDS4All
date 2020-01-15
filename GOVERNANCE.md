@@ -6,7 +6,7 @@ This project aims to governed in a transparent, accessible way for the benefit o
 
 ## Contributor
 
-The contributor role is the starting role for anyone participating in the project and wishing to contribute training materials (e.g. PowerPoint slides, Jupyter notebooks containg Python code and other documentation).
+The contributor role is the starting role for anyone participating in the project and wishing to contribute training materials (e.g. PowerPoint slides, Jupyter notebooks containing Python code and other documentation).
 
 ### Process for becoming a contributor
 
