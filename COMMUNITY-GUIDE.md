@@ -22,7 +22,7 @@ The steps to get a module included in this repository are:
 
 ### Opening an issue
 
-Before you submit a module for possibe incorporation into this repository, open an issue to alert the committers 
+Before you submit a module for possible incorporation into this repository, open an issue to alert the committers 
 ( also called maintainers ) that a module may be forthcoming. The following information will assist the committers in considering your submission:    
  - give the issue a descriptive title ( reflecting the subject matter in the module you would like to add )
  - briefly describe the module 
@@ -67,7 +67,7 @@ The easiest way to create a pull request is by selecting your working branch, an
 5.1 On the code tab, click New pull request
 5.2 Click Create pull request
 5.3 Enter the same title you used when you opened an issue ( in step 2 )
-5.4 Add the short desciption of the module to the text box below the title
+5.4 Add the short description of the module to the text box below the title
 5.5 Add your DCO below the short description 
 5.6 Click Create pull request
 ```
