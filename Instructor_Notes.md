@@ -8,13 +8,13 @@ For the overall course, we recommend the following books as potentially being us
 
 * Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd ed, by Wes McKinney, published by O'Reilly.
 
-Additionally, we recommend towardsdatascience.com as a useful resource for this space.
+Additionally, we recommend [Towards Data Science](towardsdatascience.com) as a useful resource for this space.
 
-# Courses Using OpenDS4All Materials
+## Courses Using OpenDS4All Materials
 
 * The University of Pennsylvania's CIS 545, Big Data Analytics, www.cis.upenn.edu/~cis545
 
-# Background Material
+## Background Material
 
 Students may find the following resources to be useful as background:
 

@@ -1,8 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Copyright Contributors to the ODPi OpenDS4All project. -->
 
-
-## Open Data Science for All Content Organization
+# Open Data Science for All Content Organization
   
 The OpenDS4All content is organized in a hierarchical structure containing the following categories:
 
