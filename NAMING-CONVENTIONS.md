@@ -1,9 +1,13 @@
 # Naming Conventions for Modules
 
 ## Modules are identified by a descriptive name, keywords, skill level and file extension
+
 A module name ( file name ) consists of four parts:
+
 *	__XXX-Yyy-zzz.abc__  
-where   
+
+where
+
 *	__XXX__ represents the descriptive name of the module, e.g.
     *	INTRODUCTION
     *	WRANGLING-DATA
@@ -25,7 +29,7 @@ where
     * md
     * ipynb
 
-__Examples__
+### Examples
 
 * INTRODUCTION-Big-Data-Analytics-basic.pptx  
 * INTRODUCTION-Big-Data-Analytics-basic.md  
@@ -41,6 +45,7 @@ The benefit of this naming convention is that modules are searchable on name, ke
 
 The file name is searchable with the standard __Find file__ search functionality already in GitHub 
 ![](assets/img/find-file.png)
+
 * Search by descriptive name, e.g. find INTRODUCTION modules
 ![](assets/img/example-query-1.png)
 * Search by topic, e.g. find Big Data modules
@@ -52,12 +57,11 @@ The file name is searchable with the standard __Find file__ search functionality
 * Search across multiple categories starting at a specific level, e.g. find all PowerPoint files
 ![](assets/img/example-query-5.png)
 
-__Comments__
+### Comments
 
 * The dashes in the file names can be ignored when searching, e.g. "bigdata" and "big-data" gives the same result
 * Word order is important, e.g. "bigdata" and "databig" gives different results
 
 ## Notes
 
-* There is an absolute limit of 260 characters on the lenght of a file name
-
+* There is an absolute limit of 260 characters on the length of a file name
