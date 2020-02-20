@@ -1,16 +1,11 @@
 # Data and Knowledge Modeling
 
-Representing and codifying knowledge -- using a combination of logical constraints and notions of classes, instances, and types -- is at the heart of data science.  Whether nodes and edges in a graph, tables in a spreadsheet, or feature matrices in machine learning -- one must be able to codify data and its properties in a structured fashion.  This module covers the essentials of knowledge representation, knowledge graphs, and, most prominently, schema design.
+Instructors who want more depth on this topic can refer to
 
-## Directory Contents
+* Knowledge graphs:  [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science) ) 
 
-* Data modeling and knowledge representation materials:
-  * DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic [slides](DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic.pptx).
-  * DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic companion [Jupyter notebook](DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic.ipynb).
-  * 
-* Homework [notebook](DATA-KNOWLEDGE-MODELS-Homework.ipynb)
+* Entity-Relationship (ER) model: [Wikipedia page](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) and relevant portions of this [textbook](https://docs.google.com/file/d/0B9aJA_iV4kHYM2dieHZhMHhyRVE/edit) "Database Management Systems," by Ramakrishnan and Gehrke.
 
-## Release History
+* NoSQL: MongoDB [Tutorial](https://www.tutorialspoint.com/mongodb/mongodb_overview.htm)
 
-* Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
-* 
+* Transactions and concurrency: relevant portions of this [textbook](https://docs.google.com/file/d/0B9aJA_iV4kHYM2dieHZhMHhyRVE/edit) "Database Management Systems," by Ramakrishnan and Gehrke.  
