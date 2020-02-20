@@ -7,10 +7,9 @@ Representing and codifying knowledge -- using a combination of logical constrain
 * Data modeling and knowledge representation materials:
   * DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic [slides](DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic.pptx).
   * DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic companion [Jupyter notebook](DATA-KNOWLEDGE-MODELS-schemas-classes-instances-basic.ipynb).
-  * 
+  
 * Homework [notebook](DATA-KNOWLEDGE-MODELS-Homework.ipynb)
 
 ## Release History
 
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
-* 
