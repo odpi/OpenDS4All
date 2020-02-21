@@ -13,7 +13,7 @@ Scalable Data Processing contains modules on parallel and distributed processing
   * GRAPHS-PAGERANK-centrality [slides](GRAPHS-PAGERANK-centrality.pptx)
   * GRAPHS-adjacency-matrices [slides](GRAPHS-adjacency-matrices.pptx)
 
-* Lecture notebook [notebook](EFFICIENT-DATA-PROCESSING-architecture-algorithms-intermediate.ipynb)
+* Lecture [notebook](EFFICIENT-DATA-PROCESSING-architecture-algorithms-intermediate.ipynb)
   
 * Homework:
   * CLUSTER-DATA-PROCESSING-Homework-Local, run locally [notebook](CLUSTER-DATA-PROCESSING-Homework-Local.ipynb)
