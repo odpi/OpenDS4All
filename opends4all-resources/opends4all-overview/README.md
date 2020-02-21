@@ -1,4 +1,4 @@
-# Overview:  What are Data Science, Data Engineering, and Big Data?
+# Overview:  What is Data Science?
 
 This module provides a broad overview of modern data science, data analytics / data engineering, and big data.  It sets the context for the OpenDS4All curriculum.
 
