@@ -8,7 +8,7 @@ For the overall course, we recommend the following books as potentially being us
 
 * Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd ed, by Wes McKinney, published by O'Reilly.
 
-Additionally, we recommend [Towards Data Science](towardsdatascience.com) as a useful resource for this space.
+Additionally, we recommend [Towards Data Science](https://towardsdatascience.com) as a useful resource for this space.
 
 ## Courses Using OpenDS4All Materials
 
