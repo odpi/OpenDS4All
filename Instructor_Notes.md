@@ -4,9 +4,9 @@
 
 For the overall course, we recommend the following books as potentially being useful:
 
-* Data Science from Scratch: First Principles with Python, 2nd ed, by Joel Grus, published by O'Reilly.
+* [Data Science from Scratch: First Principles with Python, 2nd ed](https://pdfs.semanticscholar.org/5a56/bbd762e9dd70dd20afe8740a6d09ec85ffed.pdf), by Joel Grus, published by O'Reilly.
 
-* Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd ed, by Wes McKinney, published by O'Reilly.
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd ed](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf), by Wes McKinney, published by O'Reilly.
 
 Additionally, we recommend [Towards Data Science](towardsdatascience.com) as a useful resource for this space.
 
