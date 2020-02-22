@@ -10,3 +10,5 @@ This module provides a broad overview of modern data science, data analytics / d
 ## Release History
 
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020
+
+
