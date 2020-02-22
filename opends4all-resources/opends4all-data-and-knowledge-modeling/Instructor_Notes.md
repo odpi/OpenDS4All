@@ -27,4 +27,4 @@ Instructors who want more depth on this topic can refer to
 
 * NoSQL: MongoDB [Tutorial](https://www.tutorialspoint.com/mongodb/mongodb_overview.htm)
 
-* Transactions and concurrency: relevant portions of this [textbook](https://docs.google.com/file/d/0B9aJA_iV4kHYM2dieHZhMHhyRVE/edit) "Database Management Systems," by Ramakrishnan and Gehrke.  
+* Transactions and concurrency: relevant portions of a basic database textbook, e.g. ["Database Management Systems"](https://docs.google.com/file/d/0B9aJA_iV4kHYM2dieHZhMHhyRVE/edit) by Ramakrishnan and Gehrke.  
