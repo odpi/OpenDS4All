@@ -5,7 +5,7 @@ The Lecture Notebook and associated Homework use a LinkedIn dataset which was or
 
 There are two approaches to using this data:
 1. Instructors make it available to students:
-The instructor can download the zip file, unzip it, put ‘linkedin_data_10000.json’, ‘linkedin.nodes.new’, and ‘linkedin_edges’ on a server, and make the URL available to students.  Students can then use the python package ‘urllib’ to fetch the data. 
+The instructor can download the zip file, unzip it (note that unzipping is optional since it can be done in the notebooks. ), put ‘linkedin_data_10000.json’, ‘linkedin.nodes’, and ‘linkedin_edges’ (or the zip files) on a server, and make the URL available to students.  Students can then use the python package ‘urllib’ to fetch the data. 
 
 2. Provide zip files to students:
 Make the zip files available to students, who can then unpack them. If students use Google Colab to run the notebook, then they must upload the files to their Google Drive and map the Google Drive to their Colab instance. The next step would be the same as running the notebook locally, where they put the data on a local computer and use the folder path to visit it. 
