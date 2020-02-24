@@ -7,16 +7,13 @@ The intended ordering of lessons in this module is
 4. [GRAPHS-adjacency-matrices](GRAPHS-adjacency-matrices.pptx)
 5. [GRAPHS-PAGERANK-centrality](GRAPHS-PAGERANK-centrality.pptx)
 
-## LinkedIn Dataset 
+## Datasets
 
 The Lecture Notebook and associated Homework use a synthetic LinkedIn dataset.  Note that the Lecture slides were run over a real instance of LinkedIn which, due to privacy concerns, is no longer publicly available.  We have therefore generated a synthetic dataset which is used for the associated Lecture Notebook, so the results will be different from those shown in the slides.
 
-See instructions [here](opends4all-resources/opends4all-data-and-knowledge-modeling/Instructor_Notes.md) 
-In addition to the data in data and knowledge modeling part, we are using the additional datasets: linkedin.edges.zip, linked.nodes.zip and stock_prices.csv. For best practice, instructors should make them available in an AWS S3 bucket, especially when AWS EMR cluster is used. 
+See instructions [here](opends4all-resources/opends4all-data-and-knowledge-modeling/Instructor_Notes.md) for how to access the data.
 
-## Creating a MongoDB server
-
-See instructions [here](opends4all-resources/opends4all-data-and-knowledge-modeling/Instructor_Notes.md)
+In addition to the simulated LinkedIn user profile data used in the data and knowledge modeling module, the following datasets are used: linkedin.edges.zip, linked.nodes.zip and stock_prices.csv.  All of these are in OpenDS4All/assets/data.  We strongly recommend instructors to make them available in an AWS S3 bucket, especially when an AWS EMR cluster is used. 
 
 
 ## Additional Resources
