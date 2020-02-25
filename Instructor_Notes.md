@@ -4,11 +4,11 @@
 
 For the overall course, we recommend the following books as potentially being useful:
 
-* Data Science from Scratch: First Principles with Python, 2nd ed, by Joel Grus, published by O'Reilly.
+* [Data Science from Scratch: First Principles with Python, 2nd ed](https://pdfs.semanticscholar.org/5a56/bbd762e9dd70dd20afe8740a6d09ec85ffed.pdf), by Joel Grus, published by O'Reilly.
 
-* Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd ed, by Wes McKinney, published by O'Reilly.
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd ed](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf), by Wes McKinney, published by O'Reilly.
 
-Additionally, we recommend [Towards Data Science](https://towardsdatascience.com) as a useful resource for this space.
+Additionally, we recommend [Towards Data Science](towardsdatascience.com) as a useful resource for this space.
 
 ## Courses Using OpenDS4All Materials
 
@@ -26,7 +26,7 @@ Students may find the following resources to be useful as background:
 
 The OpenDS4All modules can be "mixed and matched" at the discretion of the instructor, according to preferences, time constraints, and the target audience.  However, certain elements do have dependencies.  We suggest a "core" outline as follows:
 
-1. [Overview](opends4all-resources/opends4all-overview), 1.5 lecture hours (basic)
+1. ** [Overview](opends4all-resources/opends4all-overview), 1.5 lecture hours (basic)
 
    * _Optional recitation_: review of Python basics, including data structures
 
@@ -39,9 +39,11 @@ The OpenDS4All modules can be "mixed and matched" at the discretion of the instr
 
    * _Optional recitation_: encoding tree- or graph-structured data in relations, and traversing the data
 
-4. [Understanding performance and scale](opends4all-resources/opends4all-scalable-data-processing), 4-8 lecture hours (intermediate, appropriate for a more computational and big data audience)
+4. Performance:
+   * [Foundations: Computer architecture basics](opends4all-resources/opends4all-foundations), 1 hour (basic, provides an overview of CPU and memory)
+   * [Efficient data processing](opends4all-resources/opends4all-scalable-data-processing), 3-7 lecture hours (intermediate, appropriate for a more computational and big data audience)
 
-    * _Optional recitation_: Use `merge` and `merge_map` algorithms from Lecture Notebook to study performance of alternative strategies.  Use `%%time` and SQLite to study performance of database indices.
+   * _Optional recitation_: Use `merge` and `merge_map` algorithms from Lecture Notebook to study performance of alternative strategies.  Use `%%time` and SQLite to study performance of database indices.
 
 5. [Building machine learning models](opends4all-resources/opends4all-machine-learning)
     * **Overview and Unsupervised Models**, 1 lecture hour, basic.
