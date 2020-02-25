@@ -9,7 +9,7 @@ A key part of data science -- and the part most people immediately gravitate tow
   * Unsupervised machine learning companion [Jupyter notebook](UNSUPERVISED-ML-matrices-pca-clustering-basic.ipynb) (basic).
 * Overview of supervised machine learning:
   * Overview, decision trees, and random forests [slides](SUPERVISED-ML-OVERVIEW-trees-forests-basic.pptx) (basic).
-  * Overview, decision trees, and random forests companion [Jupyter slides] (basic).(SUPERVISED-ML-OVERVIEW-trees-forests-basic.ipynb)
+  * Overview, decision trees, and random forests companion [Jupyter notebook](SUPERVISED-ML-OVERVIEW-trees-forests-basic.ipynb) (basic).
 * Logistic and linear regression:
   * Logistic and linear regression [slides](SUPERVISED-ML-regression-basic.pptx)  (basic).
   * Logistic and linear regression companion [Jupyter notebook](SUPERVISED-ML-regression-basic.ipynb) (basic).
