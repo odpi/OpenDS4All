@@ -6,7 +6,7 @@ Instructors who want more depth on this topic can refer to:
 * [BigGorilla Data Integration and Data Preparation](https://www.biggorilla.org/)
 * [McKinney](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf), Chapters 6, 7, 9
 
-## DATASET
+## Dataset
 
 Our dataset is from a crawl of webpages related to wikipedia and other websites. It is stored in OpenDS4All/assets/data/scripts-autoload-data/data-wrangling. 
 * To read from GitHub, you should follow the format of `${prefix}/${webpage}` where `${prefix}=https://raw.githubusercontent.com/odpi/OpenDS4All/penn-processing-zgi/assets/data/scripts-autoload-data/data-wrangling/` and `${webpage}` is the url of the actual crawled webpage, without `http(s)://`, and potential postfix `/` of the url. Also, be aware that GitHub may encode some special characters in the url, like `? = &` to distinguish from parameter passing to GitHub and to the crawled webpage. 
