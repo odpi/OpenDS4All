@@ -9,5 +9,5 @@ Instructors who want more depth on this topic can refer to:
 ## DATASET
 
 Our dataset is from a crawl of webpages related to wikipedia and other websites. It is stored in OpenDS4All/assets/data/scripts-autoload-data/data-wrangling. 
-* To read from GitHub, you should follow the format of `${prefix}/${webpage}` where `${prefix}=https://raw.githubusercontent.com/odpi/OpenDS4All/penn-processing-zgi/assets/data/scripts-autoload-data/data-wrangling/` and `${webpage}` is the url of the actual crawled webpage, without `http(s)://`, and potential postfix `/` of the url. 
+* To read from GitHub, you should follow the format of `${prefix}/${webpage}` where `${prefix}=https://raw.githubusercontent.com/odpi/OpenDS4All/penn-processing-zgi/assets/data/scripts-autoload-data/data-wrangling/` and `${webpage}` is the url of the actual crawled webpage, without `http(s)://`, and potential postfix `/` of the url. Also, be aware that GitHub may encode some special characters in the url, like `? = &` to distinguish from parameter passing to GitHub and to the crawled webpage. 
 * For example, if you want to visit `https://en.wikipedia.org/wiki/List_of_cryptocurrencies`, you should actually enter `https://raw.githubusercontent.com/odpi/OpenDS4All/penn-processing-zgi/assets/data/scripts-autoload-data/data-wrangling/en.wikipedia.org/wiki/List_of_cryptocurrencies`. 
