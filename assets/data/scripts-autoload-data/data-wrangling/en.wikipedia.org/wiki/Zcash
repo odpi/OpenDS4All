@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Zcash - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlPu2ApAMM4AAF0T23EAAAAS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Zcash","wgTitle":"Zcash","wgCurRevisionId":933535751,"wgRevisionId":933535751,"wgArticleId":51849458,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2016","Cryptocurrencies","Application layer protocols","Software using the MIT license","Cryptography","Private currencies","Computer-related introductions in 2016"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Zcash","wgRelevantArticleId":51849458,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q27148141","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Zcash_logo_2019.svg/1200px-Zcash_logo_2019.svg.png"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Zcash&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Zcash&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Zcash"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Zcash rootpage-Zcash skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Zcash</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the cryptocurrency Zcash. It is not to be confused with <a href="/wiki/Zerocoin" class="mw-redirect" title="Zerocoin">Zerocoin</a> or <a href="/wiki/Zcache" class="mw-redirect" title="Zcache">zcache</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightskyblue; padding: 0.5em 0em;">Zcash</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Zcash_logo_2019.svg" class="image"><img alt="Zcash logo 2019.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Zcash_logo_2019.svg/252px-Zcash_logo_2019.svg.png" decoding="async" width="252" height="102" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Zcash_logo_2019.svg/378px-Zcash_logo_2019.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Zcash_logo_2019.svg/504px-Zcash_logo_2019.svg.png 2x" data-file-width="490" data-file-height="199" /></a></td></tr><tr><th scope="row"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Ticker symbol</a></th><td>ZEC</td></tr><tr><th colspan="2" style="text-align:center;background-color: lightskyblue;">Development</th></tr><tr><th scope="row"><a href="/wiki/White_paper" title="White paper">White paper</a></th><td><a rel="nofollow" class="external text" href="https://raw.githubusercontent.com/zcash/zips/master/protocol/protocol.pdf">"Zcash Protocol Specification"</a></td></tr><tr><th scope="row">Initial release</th><td>28&#160;October 2016<span class="noprint">&#59;&#32;3 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2016-10-28</span>)</span></td></tr><tr><th scope="row"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Latest release</a></th><td>2.1.0 / 4&#160;November 2019<span class="noprint">&#59;&#32;3 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2019-11-04</span>)</span> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Code repository</a></th><td><span class="url"><a rel="nofollow" class="external text" href="https://github.com/zcash/zcash">github<wbr />.com<wbr />/zcash<wbr />/zcash</a></span></td></tr><tr><th scope="row">Development status</th><td>Active</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="https://z.cash">z<wbr />.cash</a></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: lightskyblue;">Ledger</th></tr><tr><th scope="row"><a href="/wiki/Hash_function" title="Hash function">Hash function</a></th><td><a href="/wiki/Equihash" title="Equihash">Equihash</a></td></tr><tr><th scope="row">Block reward</th><td>12.5 ZEC <sup id="cite_ref-FAQs_2-0" class="reference"><a href="#cite_note-FAQs-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Block time</th><td>2.5 minutes <sup id="cite_ref-FAQs_2-1" class="reference"><a href="#cite_note-FAQs-2">&#91;2&#93;</a></sup><sup id="cite_ref-zchain_3-0" class="reference"><a href="#cite_note-zchain-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row">Block explorer</th><td><span class="url"><a rel="nofollow" class="external text" href="https://explorer.zcha.in/">explorer<wbr />.zcha<wbr />.in</a></span></td></tr><tr><th scope="row">Circulating supply</th><td>7,756,969 <sup id="cite_ref-zchain_3-1" class="reference"><a href="#cite_note-zchain-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row">Supply limit</th><td>21,000,000 <sup id="cite_ref-FAQs_2-2" class="reference"><a href="#cite_note-FAQs-2">&#91;2&#93;</a></sup></td></tr><tr><th colspan="2" style="text-align:center;background-color: lightskyblue;">Valuation</th></tr><tr><th scope="row"><a href="/wiki/Exchange_rate" title="Exchange rate">Exchange rate</a></th><td>$37.65 <sup id="cite_ref-coinbase_4-0" class="reference"><a href="#cite_note-coinbase-4">&#91;4&#93;</a></sup><sup id="cite_ref-zchain_3-2" class="reference"><a href="#cite_note-zchain-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Market_capitalization" title="Market capitalization">Market cap</a></th><td>$292.04 million <sup id="cite_ref-coinbase_4-1" class="reference"><a href="#cite_note-coinbase-4">&#91;4&#93;</a></sup><sup id="cite_ref-zchain_3-3" class="reference"><a href="#cite_note-zchain-3">&#91;3&#93;</a></sup></td></tr><tr><td colspan="2" style="text-align:center"><div style="font-size:85%; text-align:left;"><div class="reflist" style="list-style-type: lower-alpha;">
+</div></div></td></tr></tbody></table>
+<p><b>Zcash</b> is a <a href="/wiki/Cryptocurrency" title="Cryptocurrency">cryptocurrency</a> aimed at using <a href="/wiki/Cryptography" title="Cryptography">cryptography</a> to provide enhanced privacy for its users compared to other cryptocurrencies such as <a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a>.
+</p><p>Like Bitcoin, Zcash has a fixed total supply of 21 million units.<sup id="cite_ref-NYT_5-0" class="reference"><a href="#cite_note-NYT-5">&#91;5&#93;</a></sup>
+</p><p>Transactions can be "transparent" and similar to bitcoin transactions in which case they are controlled by a t-addr, or can be a type of <a href="/wiki/Zero-knowledge_proof" title="Zero-knowledge proof">zero-knowledge proof</a> called <a href="/wiki/Non-interactive_zero-knowledge_proof" title="Non-interactive zero-knowledge proof">zk-SNARKs</a>; the transactions are then said to be "shielded" and are controlled by a z-addr.  Zcash coins are either in a transparent pool or a shielded pool; as of December 2017 only around 4% of Zcash coins were in the shielded pool and at that time most wallet programs did not support z-addrs and no web-based wallets supported them.<sup id="cite_ref-quesnelle_6-0" class="reference"><a href="#cite_note-quesnelle-6">&#91;6&#93;</a></sup>
+</p><p>Zcash affords private transactors the option of "selective disclosure", allowing a user to prove payment for auditing purposes. One such reason is to allow private transactors the choice to comply with anti-money laundering or tax regulations. "Transactions are auditable but disclosure is under the participant's control."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  The company has hosted virtual meetings with law enforcement agencies around the U.S. to explain these fundamentals and has gone on the record of saying that "they did not develop the currency to facilitate illegal activity".<sup id="cite_ref-NYT_5-1" class="reference"><a href="#cite_note-NYT-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zcash&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Legality_of_bitcoin_by_country" class="mw-redirect" title="Legality of bitcoin by country">Legality of bitcoin by country</a></li>
+<li><a href="/wiki/Zerocoin_protocol" title="Zerocoin protocol">Zerocoin protocol</a></li>
+<li><a href="/wiki/SNARK" class="mw-redirect" title="SNARK">zk-SNARKs</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zcash&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/zcash/zcash/releases">"Releases - zcash/zcash"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2019</span> &#8211; via <a href="/wiki/GitHub" title="GitHub">GitHub</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Releases+-+zcash%2Fzcash&amp;rft_id=https%3A%2F%2Fgithub.com%2Fzcash%2Fzcash%2Freleases&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZcash" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-FAQs-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-FAQs_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FAQs_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FAQs_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://z.cash/support/faq/#zcash-economics">"Frequently Asked Questions - Zcash"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Frequently+Asked+Questions+-+Zcash&amp;rft_id=https%3A%2F%2Fz.cash%2Fsupport%2Ffaq%2F%23zcash-economics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZcash" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-zchain-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-zchain_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zchain_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-zchain_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-zchain_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://explorer.zcha.in/">"Zchain - Zcash Blockchain Explorer &amp; API"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zchain+-+Zcash+Blockchain+Explorer+%26+API&amp;rft_id=https%3A%2F%2Fexplorer.zcha.in%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZcash" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-coinbase-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-coinbase_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-coinbase_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.coinbase.com/price/zcash">"Zcash Price Chart (ZEC) - Coinbase"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zcash+Price+Chart+%28ZEC%29+-+Coinbase&amp;rft_id=https%3A%2F%2Fwww.coinbase.com%2Fprice%2Fzcash&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZcash" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-NYT-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYT_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYT_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Popper, Nathaniel (31 October 2016). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2016/11/01/business/dealbook/zcash-a-harder-to-trace-virtual-currency-generates-price-frenzy.html">"Zcash, a Harder-to-Trace Virtual Currency, Generates Price Frenzy"</a>. <i>The New York Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Zcash%2C+a+Harder-to-Trace+Virtual+Currency%2C+Generates+Price+Frenzy&amp;rft.date=2016-10-31&amp;rft.aulast=Popper&amp;rft.aufirst=Nathaniel&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2016%2F11%2F01%2Fbusiness%2Fdealbook%2Fzcash-a-harder-to-trace-virtual-currency-generates-price-frenzy.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZcash" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-quesnelle-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-quesnelle_6-0">^</a></b></span> <span class="reference-text"><cite class="citation arxiv">Quesnelle, Jeffrey (2017). "On the linkability of Zcash transactions". <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1712.01210">1712.01210</a></span> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/cs.CR">cs.CR</a>].</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=On+the+linkability+of+Zcash+transactions&amp;rft.date=2017&amp;rft_id=info%3Aarxiv%2F1712.01210&amp;rft.aulast=Quesnelle&amp;rft.aufirst=Jeffrey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZcash" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Clozel, Lalita (31 October 2016). <a rel="nofollow" class="external text" href="https://www.americanbanker.com/news/how-zcash-tries-to-balance-privacy-transparency-in-blockchain">"How Zcash Tries to Balance Privacy, Transparency in Blockchain"</a>. <i>American Banker</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Banker&amp;rft.atitle=How+Zcash+Tries+to+Balance+Privacy%2C+Transparency+in+Blockchain&amp;rft.date=2016-10-31&amp;rft.aulast=Clozel&amp;rft.aufirst=Lalita&amp;rft_id=https%3A%2F%2Fwww.americanbanker.com%2Fnews%2Fhow-zcash-tries-to-balance-privacy-transparency-in-blockchain&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZcash" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zcash&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://z.cash/">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.zfnd.org/">Zcash Foundation</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Cryptocurrencies" style="padding:3px"><table class="nowraplinks hlist mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cryptocurrencies" title="Template:Cryptocurrencies"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cryptocurrencies" title="Template talk:Cryptocurrencies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cryptocurrencies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cryptocurrencies" style="font-size:114%;margin:0 4em"><a href="/wiki/Cryptocurrency" title="Cryptocurrency">Cryptocurrencies</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blockchain" title="Blockchain">Blockchain</a></li>
+<li><a href="/wiki/Cryptocurrency_tumbler" title="Cryptocurrency tumbler">Cryptocurrency tumbler</a></li>
+<li><a href="/wiki/Cryptocurrency_exchange" title="Cryptocurrency exchange">Cryptocurrency exchange</a></li>
+<li><a href="/wiki/Cryptocurrency_wallet" title="Cryptocurrency wallet">Cryptocurrency wallet</a></li>
+<li><a href="/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash function</a></li>
+<li><a href="/wiki/Distributed_ledger" title="Distributed ledger">Distributed ledger</a></li>
+<li><a href="/wiki/Fork_(blockchain)" title="Fork (blockchain)">Fork</a></li>
+<li><a href="/wiki/Lightning_Network" title="Lightning Network">Lightning Network</a></li>
+<li><a href="/wiki/Smart_contract" title="Smart contract">Smart contract</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Consensus_(computer_science)" title="Consensus (computer science)">Consensus</a> mechanisms</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Proof_of_authority" title="Proof of authority">Proof of authority</a></li>
+<li><a href="/wiki/Proof_of_space" title="Proof of space">Proof of space</a></li>
+<li><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a></li>
+<li><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a> currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/SHA-2" title="SHA-2">SHA-256</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a></li>
+<li><a href="/wiki/Bitcoin_Cash" title="Bitcoin Cash">Bitcoin Cash</a></li>
+<li><a href="/wiki/Counterparty_(platform)" title="Counterparty (platform)">Counterparty</a></li>
+<li><a href="/wiki/MazaCoin" title="MazaCoin">MazaCoin</a></li>
+<li><a href="/wiki/Namecoin" title="Namecoin">Namecoin</a></li>
+<li><a href="/wiki/Peercoin" title="Peercoin">Peercoin</a></li>
+<li><a href="/wiki/Titcoin" title="Titcoin">Titcoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ethash" title="Ethash">Ethash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ethereum" title="Ethereum">Ethereum</a></li>
+<li><a href="/wiki/Ethereum_Classic" title="Ethereum Classic">Ethereum Classic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scrypt" title="Scrypt">Scrypt</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auroracoin" title="Auroracoin">Auroracoin</a></li>
+<li><a href="/wiki/Bitconnect" title="Bitconnect">Bitconnect</a></li>
+<li><a href="/wiki/Bitcoin_Gold" title="Bitcoin Gold">Bitcoin Gold</a></li>
+<li><a href="/wiki/Coinye" title="Coinye">Coinye</a></li>
+<li><a href="/wiki/Dogecoin" title="Dogecoin">Dogecoin</a></li>
+<li><a href="/wiki/Litecoin" title="Litecoin">Litecoin</a></li>
+<li><a href="/wiki/PotCoin" title="PotCoin">PotCoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Equihash" title="Equihash">Equihash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Zcash</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/CryptoNote" title="CryptoNote">CryptoNote</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Monero_(cryptocurrency)" title="Monero (cryptocurrency)">Monero</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/X11_algorithm" class="mw-redirect" title="X11 algorithm">X11</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dash_(cryptocurrency)" title="Dash (cryptocurrency)">Dash</a></li>
+<li><a href="/wiki/Petro_(cryptocurrency)" title="Petro (cryptocurrency)">Petro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lyra2" title="Lyra2">Lyra2</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Taler_(cryptocurrency)" title="Taler (cryptocurrency)">Taler</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmbaCoin" title="AmbaCoin">AmbaCoin</a></li>
+<li><a href="/wiki/Primecoin" title="Primecoin">Primecoin</a></li>
+<li><a href="/wiki/Verge_(cryptocurrency)" title="Verge (cryptocurrency)">Verge</a></li>
+<li><a href="/wiki/Vertcoin" title="Vertcoin">Vertcoin</a></li>
+<li><a href="/wiki/Zcoin" title="Zcoin">Zcoin</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a> currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gridcoin" title="Gridcoin">Gridcoin</a></li>
+<li><a href="/wiki/EOS.IO" title="EOS.IO">EOS.IO</a></li>
+<li><a href="/wiki/Nxt" title="Nxt">Nxt</a></li>
+<li><a href="/wiki/Steem" title="Steem">Steem</a></li>
+<li><a href="/wiki/Tezos" title="Tezos">Tezos</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ERC-20" class="mw-redirect" title="ERC-20">ERC-20</a> tokens</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aragon_(project)" title="Aragon (project)">Aragon</a></li>
+<li><a href="/wiki/Augur_(software)" title="Augur (software)">Augur</a></li>
+<li><a href="/wiki/Aventus_Protocol" title="Aventus Protocol">Aventus</a></li>
+<li><a href="/wiki/Basic_Attention_Token" class="mw-redirect" title="Basic Attention Token">Basic Attention Token</a></li>
+<li><a href="/wiki/Centra_Tech" title="Centra Tech">Centra</a></li>
+<li><a href="/wiki/Kin_(Token)" class="mw-redirect" title="Kin (Token)">Kin</a></li>
+<li><a href="/wiki/KodakCoin" title="KodakCoin">KodakCoin</a></li>
+<li><a href="/wiki/Minds" title="Minds">Minds</a></li>
+<li><a href="/wiki/Power_Ledger" title="Power Ledger">Power Ledger</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Daniel_Larimer#BitShares" title="Daniel Larimer">BitShares</a></li>
+<li><a href="/wiki/Filecoin" title="Filecoin">Filecoin</a></li>
+<li><a href="/wiki/GNU_Taler" title="GNU Taler">GNU Taler</a></li>
+<li><a href="/wiki/Libra_(cryptocurrency)" class="mw-redirect" title="Libra (cryptocurrency)">Libra</a></li>
+<li><a href="/wiki/Nano_(cryptocurrency)" title="Nano (cryptocurrency)">Nano</a></li>
+<li><a href="/wiki/NEM_(cryptocurrency)" title="NEM (cryptocurrency)">NEM</a></li>
+<li><a href="/wiki/NEO_(cryptocurrency)" title="NEO (cryptocurrency)">NEO</a></li>
+<li><a href="/wiki/Ripple_(payment_protocol)" title="Ripple (payment protocol)">XRP</a></li>
+<li><a href="/wiki/Stellar_(payment_network)" title="Stellar (payment network)">Stellar</a></li>
+<li><a href="/wiki/Tether_(cryptocurrency)" title="Tether (cryptocurrency)">Tether</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airdrop_(cryptocurrency)" title="Airdrop (cryptocurrency)">Airdrop</a></li>
+<li><a href="/wiki/BitLicense" title="BitLicense">BitLicense</a></li>
+<li><a href="/wiki/Blockchain_game" class="mw-redirect" title="Blockchain game">Blockchain game</a></li>
+<li><a href="/wiki/Complementary_currency" title="Complementary currency">Complementary currency</a></li>
+<li><a href="/wiki/Crypto-anarchism" title="Crypto-anarchism">Crypto-anarchism</a></li>
+<li><a href="/wiki/Cryptocurrency_bubble" title="Cryptocurrency bubble">Cryptocurrency bubble</a> (<a href="/wiki/2018_cryptocurrency_crash" title="2018 cryptocurrency crash">2018 cryptocurrency crash</a>)</li>
+<li><a href="/wiki/Digital_currency" title="Digital currency">Digital currency</a></li>
+<li><a href="/wiki/Double-spending" title="Double-spending">Double-spending</a></li>
+<li><a href="/wiki/Initial_coin_offering" title="Initial coin offering">Initial coin offering</a></li>
+<li><a href="/wiki/Initial_exchange_offering" title="Initial exchange offering">Initial exchange offering</a></li>
+<li><a href="/wiki/Initiative_Q" title="Initiative Q">Initiative Q</a></li>
+<li><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List of cryptocurrencies</a></li>
+<li><a href="/wiki/Stablecoin" title="Stablecoin">Stablecoin</a></li>
+<li><a href="/wiki/Token_money" title="Token money">Token money</a></li>
+<li><a href="/wiki/Virtual_currency" title="Virtual currency">Virtual currency</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Cryptocurrency" class="extiw" title="commons:Category:Cryptocurrency">Commons</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="Emblem-money.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/21px-Emblem-money.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/32px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/42px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span><a href="/wiki/Portal:Economics" class="mw-redirect" title="Portal:Economics">Economics portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Free_and_open-source_software_logo_(2009).svg" class="image"><img alt="Free and open-source software logo (2009).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/21px-Free_and_open-source_software_logo_%282009%29.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/32px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span><a href="/wiki/Portal:Free_and_open-source_software" title="Portal:Free and open-source software">Free and open-source software portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="image"><img alt="Crystal Clear app linneighborhood.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/21px-Crystal_Clear_app_linneighborhood.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/32px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/42px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a></span><a href="/wiki/Portal:Internet" title="Portal:Internet">Internet portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:United_States_penny,_obverse,_2002.png" class="image"><img alt="United States penny, obverse, 2002.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/United_States_penny%2C_obverse%2C_2002.png/21px-United_States_penny%2C_obverse%2C_2002.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/United_States_penny%2C_obverse%2C_2002.png/32px-United_States_penny%2C_obverse%2C_2002.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/United_States_penny%2C_obverse%2C_2002.png/42px-United_States_penny%2C_obverse%2C_2002.png 2x" data-file-width="903" data-file-height="901" /></a></span><a href="/wiki/Portal:Numismatics" title="Portal:Numismatics">Numismatics portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20200216231130
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.420 seconds
+Real time usage: 0.596 seconds
+Preprocessor visited node count: 1760/1000000
+Post‐expand include size: 51338/2097152 bytes
+Template argument size: 3136/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 22005/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.235/10.000 seconds
+Lua memory usage: 4.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  525.429      1 -total
+ 31.00%  162.870      2 Template:Reflist
+ 21.95%  115.321      1 Template:About-distinguish
+ 21.68%  113.904      1 Template:Infobox_cryptocurrency
+ 20.35%  106.945      1 Template:Infobox
+ 18.55%   97.450      4 Template:Cite_web
+  8.01%   42.083      1 Template:Portal_bar
+  7.31%   38.388      2 Template:Start_date_and_age
+  7.11%   37.374      1 Template:Use_dmy_dates
+  6.77%   35.596      1 Template:Cite_arXiv
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:51849458-0!canonical and timestamp 20200216231130 and revision id 933535751
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Zcash&amp;oldid=933535751">https://en.wikipedia.org/w/index.php?title=Zcash&amp;oldid=933535751</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Cryptocurrencies</a></li><li><a href="/wiki/Category:Application_layer_protocols" title="Category:Application layer protocols">Application layer protocols</a></li><li><a href="/wiki/Category:Software_using_the_MIT_license" title="Category:Software using the MIT license">Software using the MIT license</a></li><li><a href="/wiki/Category:Cryptography" title="Category:Cryptography">Cryptography</a></li><li><a href="/wiki/Category:Private_currencies" title="Category:Private currencies">Private currencies</a></li><li><a href="/wiki/Category:Computer-related_introductions_in_2016" title="Category:Computer-related introductions in 2016">Computer-related introductions in 2016</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2016" title="Category:Use dmy dates from February 2016">Use dmy dates from February 2016</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Zcash" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Zcash" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Zcash" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Zcash" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Zcash">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Zcash&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Zcash&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Zcash" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Zcash" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Zcash&amp;oldid=933535751" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Zcash&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q27148141" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Zcash&amp;id=933535751" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Zcash">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Zcash&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Zcash&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Zcash" title="Zcash – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Zcash" title="Zcash – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%DB%8C%E2%80%8C%DA%A9%D8%B4" title="زی‌کش – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/Zcash" title="Zcash – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Zcash" title="Zcash – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Zcash" title="Zcash – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Zcash" title="Zcash – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://ru.wikipedia.org/wiki/Zcash" title="Zcash – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Zcash" title="Zcash – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Zcash" title="Zcash – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Zcash" title="Zcash – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q27148141#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 1 January 2020, at 16:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Zcash&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.596","ppvisitednodes":{"value":1760,"limit":1000000},"postexpandincludesize":{"value":51338,"limit":2097152},"templateargumentsize":{"value":3136,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22005,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  525.429      1 -total"," 31.00%  162.870      2 Template:Reflist"," 21.95%  115.321      1 Template:About-distinguish"," 21.68%  113.904      1 Template:Infobox_cryptocurrency"," 20.35%  106.945      1 Template:Infobox"," 18.55%   97.450      4 Template:Cite_web","  8.01%   42.083      1 Template:Portal_bar","  7.31%   38.388      2 Template:Start_date_and_age","  7.11%   37.374      1 Template:Use_dmy_dates","  6.77%   35.596      1 Template:Cite_arXiv"]},"scribunto":{"limitreport-timeusage":{"value":"0.235","limit":"10.000"},"limitreport-memusage":{"value":4957980,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20200216231130","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Zcash","url":"https:\/\/en.wikipedia.org\/wiki\/Zcash","sameAs":"http:\/\/www.wikidata.org\/entity\/Q27148141","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q27148141","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-10-03T15:23:31Z","dateModified":"2020-01-01T16:13:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/99\/Zcash_logo_2019.svg","headline":"cryptocurrency"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1364"});});</script></body></html>

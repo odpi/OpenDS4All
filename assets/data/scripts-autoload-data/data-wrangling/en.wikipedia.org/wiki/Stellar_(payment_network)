@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Stellar (payment network) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xkv06gpAMEoAACiXSD8AAADO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Stellar_(payment_network)","wgTitle":"Stellar (payment network)","wgCurRevisionId":940664663,"wgRevisionId":940664663,"wgArticleId":43737395,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with a promotional tone from March 2018","All articles with a promotional tone","Internet protocols","Payment systems","Cryptocurrencies","Blockchains"],"wgPageContentLanguage":
+"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Stellar_(payment_network)","wgRelevantArticleId":43737395,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17870327","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":
+"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.18"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stellar_Symbol.png/1200px-Stellar_Symbol.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stellar_(payment_network)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stellar_(payment_network)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Stellar_payment_network rootpage-Stellar_payment_network skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Stellar (payment network)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Stellar_(payment_network)&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">March 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vevent" style="width:22em"><caption class="summary">Stellar.org</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Stellar_Symbol.png" class="image"><img alt="Stellar Symbol.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stellar_Symbol.png/220px-Stellar_Symbol.png" decoding="async" width="220" height="186" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stellar_Symbol.png/330px-Stellar_Symbol.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stellar_Symbol.png/440px-Stellar_Symbol.png 2x" data-file-width="2364" data-file-height="2001" /></a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Original author(s)</a></th><td><a href="/wiki/Jed_McCaleb" title="Jed McCaleb">Jed McCaleb</a>, Joyce Kim</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Developer(s)</a></th><td>Stellar Development Foundation</td></tr><tr><th scope="row" style="white-space: nowrap;">Initial release</th><td>July&#160;31, 2014<span class="noprint">&#59;&#32;5 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2014-07-31</span>)</span></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th><td><div class="plainlist"><ul><li><span class="url"><a rel="nofollow" class="external text" href="https://github.com/stellar/stellar-core">github<wbr />.com<wbr />/stellar<wbr />/stellar-core</a></span></li></ul>
+</div> <a href="https://www.wikidata.org/wiki/Q17870327#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></td></tr><tr><th scope="row" style="white-space: nowrap;">Written in</th><td><a href="/wiki/C%2B%2B" title="C++">C++</a>, <a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>, <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td><a href="/wiki/Cross-platform_software" title="Cross-platform software">Cross-platform</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Categorization_approaches" title="Software categories">Type</a></th><td><a href="/wiki/Blockchain" title="Blockchain">Blockchain</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td><a href="/wiki/Apache_License_2.0" class="mw-redirect" title="Apache License 2.0">Apache License 2.0</a></td></tr><tr><th scope="row" style="white-space: nowrap;">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="https://stellar.org">stellar<wbr />.org</a></span></td></tr></tbody></table>
+<p><b>Stellar</b> is an <a href="/wiki/Open-source_software" title="Open-source software">open source</a>, <a href="/wiki/Decentralization" title="Decentralization">decentralized</a> protocol for <a href="/wiki/Digital_currency" title="Digital currency">digital currency</a> to <a href="/wiki/Fiat_money" title="Fiat money">fiat money</a> transfers which allows cross-border transactions between any pair of currencies.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The Stellar protocol is supported by a 501(c)3 nonprofit, the Stellar Development Foundation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Real-world_applications"><span class="tocnumber">1.1</span> <span class="toctext">Real-world applications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Overview"><span class="tocnumber">2</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2014, <a href="/wiki/Jed_McCaleb" title="Jed McCaleb">Jed McCaleb</a>, founder of <a href="/wiki/Mt._Gox" title="Mt. Gox">Mt. Gox</a> and co-founder of <a href="/wiki/Ripple_(company)" class="mw-redirect" title="Ripple (company)">Ripple</a>, launched the network system Stellar with former lawyer Joyce Kim. Before the official launch, McCaleb formed a website called "Secret Bitcoin Project" seeking alpha testers.<sup id="cite_ref-wsj_5-0" class="reference"><a href="#cite_note-wsj-5">&#91;5&#93;</a></sup> The nonprofit Stellar Development Foundation was created in collaboration with <a href="/wiki/Stripe_(company)" title="Stripe (company)">Stripe</a> CEO <a href="/wiki/Patrick_Collison" title="Patrick Collison">Patrick Collison</a> and the project officially launched that July. Stellar received $3 million in seed funding from Stripe.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Stellar was released as a decentralized payment network and protocol with a native currency, stellar. At its launch, the network had 100 billion stellars. 25 percent of those would be given to other non-profits working toward financial inclusion.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Stripe received 2 percent or 2 billion of the initial stellars in return for its seed investment.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The cryptocurrency, originally known as stellar, was later called Lumens or XLM.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> In August 2014, Mercado Bitcoin, the first Brazilian bitcoin exchange, announced it would be using the Stellar network.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> By January 2015, Stellar had approximately 3 million registered user accounts on its platform and its market cap was almost $15 million.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>The Stellar Development Foundation released an upgraded protocol with a new consensus algorithm in April 2015 which went live in November 2015.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> The new algorithm used SCP, a cryptocurrency protocol created by <a href="/wiki/Stanford_University" title="Stanford University">Stanford</a> professor David Mazières.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>Lightyear.io, a for-profit entity of Stellar, launched in May 2017 as the commercial arm of the company.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> In September 2017, Stellar announced a benefits program, part of its Stellar Partnership Grant Program, which would award partners up to $2 million worth of Lumens for project development. In September 2018, Lightyear Corporation acquired Chain, Inc and the combined company was named Interstellar.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Real-world_applications">Real-world applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit&amp;section=2" title="Edit section: Real-world applications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2015, it was announced that Stellar was releasing an integration into Vumi, the open-sourced messaging platform of the <a href="/wiki/Praekelt_Foundation" title="Praekelt Foundation">Praekelt Foundation</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Vumi uses cellphone talk time as currency using the Stellar protocol.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Stellar partnered with cloud-based banking software company Oradian in April 2015 to integrate Stellar into Oradian's banking platform to add <a href="/wiki/Microfinance" title="Microfinance">microfinance</a> institutions (MFIs) in Nigeria.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p><a href="/wiki/Deloitte" title="Deloitte">Deloitte</a> announced its integration with Stellar in 2016 to build a cross-border payments application, Deloitte Digital Bank.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>  In December 2016, it was announced that Stellar's payment network had expanded to include <a href="/wiki/Coins.ph" title="Coins.ph">Coins.ph</a>, a mobile payments startup in the Philippines, <a href="/wiki/ICICI_Bank" title="ICICI Bank">ICICI Bank</a> in India, African mobile payments firm Flutterwave, and French remittances company Tempo Money Transfer.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>In October 2017, Stellar partnered with <a href="/wiki/IBM" title="IBM">IBM</a> and <a href="/wiki/KlickEx" title="KlickEx">KlickEx</a> to facilitate cross-border transactions in the South Pacific region. The cross-border payment system developed by IBM includes partnerships with banks in the area.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p><p>In December 2017, TechCrunch announced Stellar's partnership with SureRemit, a Nigerian based non-cash remittances platform.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit&amp;section=3" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stellar is an open-source protocol for exchanging money or tokens using the <a rel="nofollow" class="external text" href="https://www.stellar.org/papers/stellar-consensus-protocol.pdf">Stellar Consensus Protocol</a>. The platform's source code is hosted on GitHub.
+</p><p>Servers run a software implementation of the protocol, and use the Internet to connect to and communicate with other Stellar servers. Each server stores a ledger of all the accounts in the network. Transactions among accounts occur not through <a href="/wiki/Bitcoin#Mining" title="Bitcoin">mining</a> but rather through a consensus process among accounts in quorum slice.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Ben Dickson (January 30, 2018). <a rel="nofollow" class="external text" href="https://thenextweb.com/insider/2018/01/30/can-blockchain-democratize-education-this-startup-seems-to-think-so/">"Can blockchain democratize education? This startup seems to think so"</a>. The Next Web<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Can+blockchain+democratize+education%3F+This+startup+seems+to+think+so&amp;rft.pub=The+Next+Web&amp;rft.date=2018-01-30&amp;rft.au=Ben+Dickson&amp;rft_id=https%3A%2F%2Fthenextweb.com%2Finsider%2F2018%2F01%2F30%2Fcan-blockchain-democratize-education-this-startup-seems-to-think-so%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Jillian D’onfro (31 July 2014). <a rel="nofollow" class="external text" href="http://www.businessinsider.com/keith-rabois-stellar-foundation-2014-7">"PayPal's Cofounder Is Supporting A New Non-Profit That Will Tackle The Vision PayPal 'Never Accomplished<span class="cs1-kern-right">'</span>"</a>. Business Insider<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PayPal%27s+Cofounder+Is+Supporting+A+New+Non-Profit+That+Will+Tackle+The+Vision+PayPal+%27Never+Accomplished%27&amp;rft.pub=Business+Insider&amp;rft.date=2014-07-31&amp;rft.au=Jillian+D%E2%80%99onfro&amp;rft_id=http%3A%2F%2Fwww.businessinsider.com%2Fkeith-rabois-stellar-foundation-2014-7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Kim-Mai Cutler (31 July 2014). <a rel="nofollow" class="external text" href="https://techcrunch.com/2014/07/31/stripe-backs-non-profit-decentralized-payment-network-stellar-from-mt-goxs-original-creator/">"Stripe Backs Non-Profit Decentralized Payment Network Stellar, From Mt. Gox's Original Creator"</a>. TechCrunch<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stripe+Backs+Non-Profit+Decentralized+Payment+Network+Stellar%2C+From+Mt.+Gox%E2%80%99s+Original+Creator&amp;rft.pub=TechCrunch&amp;rft.date=2014-07-31&amp;rft.au=Kim-Mai+Cutler&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2014%2F07%2F31%2Fstripe-backs-non-profit-decentralized-payment-network-stellar-from-mt-goxs-original-creator%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">JP Mangalindan (31 July 2014). <a rel="nofollow" class="external text" href="http://fortune.com/2014/07/31/stripe-launches-bitcoin-challenger-gives-it-away-for-free/">"New Bitcoin challenger launches"</a>. Fortune<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Bitcoin+challenger+launches&amp;rft.pub=Fortune&amp;rft.date=2014-07-31&amp;rft.au=JP+Mangalindan&amp;rft_id=http%3A%2F%2Ffortune.com%2F2014%2F07%2F31%2Fstripe-launches-bitcoin-challenger-gives-it-away-for-free%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-wsj-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-wsj_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://blogs.wsj.com/moneybeat/2014/07/31/mt-gox-ripple-founder-unveils-stellar-a-new-digital-currency-project/">"Mt. Gox, Ripple Founder Unveils Stellar, a New Digital Currency Project"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mt.+Gox%2C+Ripple+Founder+Unveils+Stellar%2C+a+New+Digital+Currency+Project&amp;rft_id=https%3A%2F%2Fblogs.wsj.com%2Fmoneybeat%2F2014%2F07%2F31%2Fmt-gox-ripple-founder-unveils-stellar-a-new-digital-currency-project%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/2014/07/31/stripe-launches-bitcoin-challenger-gives-it-away-for-free/">"New Bitcoin challenger launches"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Bitcoin+challenger+launches&amp;rft_id=http%3A%2F%2Ffortune.com%2F2014%2F07%2F31%2Fstripe-launches-bitcoin-challenger-gives-it-away-for-free%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Michael del Castillo (5 August 2014). <a rel="nofollow" class="external text" href="http://www.irishtimes.com/business/technology/stripe-takes-on-bitcoin-with-rival-digital-currency-stellar-1.1887360">"Stripe takes on bitcoin with rival digital currency Stellar"</a>. The Irish Times<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stripe+takes+on+bitcoin+with+rival+digital+currency+Stellar&amp;rft.pub=The+Irish+Times&amp;rft.date=2014-08-05&amp;rft.au=Michael+del+Castillo&amp;rft_id=http%3A%2F%2Fwww.irishtimes.com%2Fbusiness%2Ftechnology%2Fstripe-takes-on-bitcoin-with-rival-digital-currency-stellar-1.1887360&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://venturebeat.com/2014/07/31/payment-processor-stripe-launches-a-new-currency-the-stellar/">"Payment processor Stripe helps launch a new currency, the Stellar"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Payment+processor+Stripe+helps+launch+a+new+currency%2C+the+Stellar&amp;rft_id=https%3A%2F%2Fventurebeat.com%2F2014%2F07%2F31%2Fpayment-processor-stripe-launches-a-new-currency-the-stellar%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businessinsider.com/keith-rabois-stellar-foundation-2014-7">"PayPal's Cofounder Is Supporting A New Non-Profit That Will Tackle The Vision PayPal 'Never Accomplished<span class="cs1-kern-right">'</span>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PayPal%27s+Cofounder+Is+Supporting+A+New+Non-Profit+That+Will+Tackle+The+Vision+PayPal+%27Never+Accomplished%27&amp;rft_id=http%3A%2F%2Fwww.businessinsider.com%2Fkeith-rabois-stellar-foundation-2014-7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://techcrunch.com/2014/07/31/stripe-backs-non-profit-decentralized-payment-network-stellar-from-mt-goxs-original-creator/">"Stripe Backs Non-Profit Decentralized Payment Network Stellar, From Mt. Gox's Original Creator"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stripe+Backs+Non-Profit+Decentralized+Payment+Network+Stellar%2C+From+Mt.+Gox%27s+Original+Creator&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2014%2F07%2F31%2Fstripe-backs-non-profit-decentralized-payment-network-stellar-from-mt-goxs-original-creator%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nasdaq.com/article/2-game-changing-new-cryptocurrencies-with-serious-backing-cm907959">"2 Game-Changing New Cryptocurrencies With Serious Backing"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2+Game-Changing+New+Cryptocurrencies+With+Serious+Backing&amp;rft_id=http%3A%2F%2Fwww.nasdaq.com%2Farticle%2F2-game-changing-new-cryptocurrencies-with-serious-backing-cm907959&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.wired.com/2014/08/new-digital-currency-aims-to-unite-every-money-system-on-earth/">"New Digital Currency Aims to Unite Every Money System on Earth"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Digital+Currency+Aims+to+Unite+Every+Money+System+on+Earth&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2014%2F08%2Fnew-digital-currency-aims-to-unite-every-money-system-on-earth%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.techinasia.com/stellar-asia-growth">"Stellar rewrote the rules of cryptocurrencies. Now, users in Asia are leading its growth"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stellar+rewrote+the+rules+of+cryptocurrencies.+Now%2C+users+in+Asia+are+leading+its+growth&amp;rft_id=https%3A%2F%2Fwww.techinasia.com%2Fstellar-asia-growth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Cade Metz (8 April 2015). <a rel="nofollow" class="external text" href="https://www.wired.com/2015/04/stanford-prof-builds-algorithm-internet-money/">"An Algorithm to Make Online Currency as Trustworthy as Cash"</a>. <i>WIRED</i>. Condé Nast<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WIRED&amp;rft.atitle=An+Algorithm+to+Make+Online+Currency+as+Trustworthy+as+Cash&amp;rft.date=2015-04-08&amp;rft.au=Cade+Metz&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2015%2F04%2Fstanford-prof-builds-algorithm-internet-money%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Tom Simonite (April 15, 2015). <a rel="nofollow" class="external text" href="https://www.technologyreview.com/s/536641/a-new-competitor-for-bitcoin-aims-to-be-faster-and-safer/">"A New Competitor for Bitcoin Aims to Be Faster and Safer"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+New+Competitor+for+Bitcoin+Aims+to+Be+Faster+and+Safer&amp;rft.date=2015-04-15&amp;rft.au=Tom+Simonite&amp;rft_id=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F536641%2Fa-new-competitor-for-bitcoin-aims-to-be-faster-and-safer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Jeff John Roberts (May 11, 2017). <a rel="nofollow" class="external text" href="http://fortune.com/2017/05/11/lightyear-blockchain/">"Stripe-Backed Stellar Places a New Bet on Blockchain in the Developing World"</a>. Fortune<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stripe-Backed+Stellar+Places+a+New+Bet+on+Blockchain+in+the+Developing+World&amp;rft.pub=Fortune&amp;rft.date=2017-05-11&amp;rft.au=Jeff+John+Roberts&amp;rft_id=http%3A%2F%2Ffortune.com%2F2017%2F05%2F11%2Flightyear-blockchain%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2018-09-10/blockchain-startup-chain-merges-with-stellar-to-accelerate-use">"Blockchain Startup Chain Merges With Stellar to Accelerate Use"</a>. <i>Bloomberg.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bloomberg.com&amp;rft.atitle=Blockchain+Startup+Chain+Merges+With+Stellar+to+Accelerate+Use&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2018-09-10%2Fblockchain-startup-chain-merges-with-stellar-to-accelerate-use&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Biz Carson (5 February 2015). <a rel="nofollow" class="external text" href="https://gigaom.com/2015/02/05/stellar-south-african-nonprofit-to-bring-digital-savings-to-young-girls/">"Stellar, South African nonprofit to bring digital savings to young girls"</a>. GigaOm<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stellar%2C+South+African+nonprofit+to+bring+digital+savings+to+young+girls&amp;rft.pub=GigaOm&amp;rft.date=2015-02-05&amp;rft.au=Biz+Carson&amp;rft_id=https%3A%2F%2Fgigaom.com%2F2015%2F02%2F05%2Fstellar-south-african-nonprofit-to-bring-digital-savings-to-young-girls%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Tom Simonite (20 February 2015). <a rel="nofollow" class="external text" href="http://www.technologyreview.com/news/535271/bitcoin-inspired-digital-currency-to-power-mobile-savings-app/">"Bitcoin-Inspired Digital Currency to Power Mobile Savings App"</a>. MIT Technology Review<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bitcoin-Inspired+Digital+Currency+to+Power+Mobile+Savings+App&amp;rft.pub=MIT+Technology+Review&amp;rft.date=2015-02-20&amp;rft.au=Tom+Simonite&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2Fnews%2F535271%2Fbitcoin-inspired-digital-currency-to-power-mobile-savings-app%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Karen Webster (2 March 2015). <a rel="nofollow" class="external text" href="http://www.pymnts.com/exclusive-series/2015/stellar-and-solving-the-unexpected-tragedy-of-the-financial-system/#.VTmJ7pR4pBD">"Stellar and Solving the Unexpected Tragedy of the Financial System"</a>. PYMENTS.com<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stellar+and+Solving+the+Unexpected+Tragedy+of+the+Financial+System&amp;rft.pub=PYMENTS.com&amp;rft.date=2015-03-02&amp;rft.au=Karen+Webster&amp;rft_id=http%3A%2F%2Fwww.pymnts.com%2Fexclusive-series%2F2015%2Fstellar-and-solving-the-unexpected-tragedy-of-the-financial-system%2F%23.VTmJ7pR4pBD&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Paul Vigna (28 February 2015). <a rel="nofollow" class="external text" href="https://blogs.wsj.com/moneybeat/2015/02/28/bitbeat-stellar-takes-a-step-into-the-microfinance-world/">"Stellar Takes a Step Into the Microfinance World"</a>. Wall Street Journal<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stellar+Takes+a+Step+Into+the+Microfinance+World&amp;rft.pub=Wall+Street+Journal&amp;rft.date=2015-02-28&amp;rft.au=Paul+Vigna&amp;rft_id=https%3A%2F%2Fblogs.wsj.com%2Fmoneybeat%2F2015%2F02%2F28%2Fbitbeat-stellar-takes-a-step-into-the-microfinance-world%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Diana Asatryan (May 3, 2016). <a rel="nofollow" class="external text" href="https://bankinnovation.net/2016/05/deloitte-taps-blockchain-startups-to-build-new-core-banking-system/">"Deloitte Taps Blockchain Startups to Build New Core Banking System"</a>. Bank Innovation<span class="reference-accessdate">. Retrieved <span class="nowrap">August 26,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Deloitte+Taps+Blockchain+Startups+to+Build+New+Core+Banking+System&amp;rft.pub=Bank+Innovation&amp;rft.date=2016-05-03&amp;rft.au=Diana+Asatryan&amp;rft_id=https%3A%2F%2Fbankinnovation.net%2F2016%2F05%2Fdeloitte-taps-blockchain-startups-to-build-new-core-banking-system%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">FORTUNE. <a rel="nofollow" class="external text" href="http://fortune.com/2016/12/06/fintech-stellar-blockchain-stripe-remittances/">"Stripe-Backed Stellar Kicks Off Worldwide Money Transfers"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Stripe-Backed+Stellar+Kicks+Off+Worldwide+Money+Transfers&amp;rft.au=FORTUNE&amp;rft_id=http%3A%2F%2Ffortune.com%2F2016%2F12%2F06%2Ffintech-stellar-blockchain-stripe-remittances%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cnbc.com/2018/01/24/stellar-jumps-20-percent-after-stripe-says-it-may-add-support-for-the-digital-coin.html">"Stellar jumps 20% after Stripe says it may add support for the digital coin"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stellar+jumps+20%25+after+Stripe+says+it+may+add+support+for+the+digital+coin&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2018%2F01%2F24%2Fstellar-jumps-20-percent-after-stripe-says-it-may-add-support-for-the-digital-coin.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/2017/10/16/ibm-blockchain-stellar/">"IBM and Stellar Are Launching Blockchain Banking Across Multiple Countries"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=IBM+and+Stellar+Are+Launching+Blockchain+Banking+Across+Multiple+Countries&amp;rft_id=http%3A%2F%2Ffortune.com%2F2017%2F10%2F16%2Fibm-blockchain-stellar%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Jake, Bright. <a rel="nofollow" class="external text" href="https://techcrunch.com/2017/12/11/africas-sureremit-joins-the-tokenized-race-to-win-the-global-remittance-market/">"Africa's SureRemit joins the tokenized race to win the global remittance market"</a>. <i>TechCrunch</i>. Archived from <a rel="nofollow" class="external text" href="https://techcrunch.com">the original</a> on December 12, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">August 28,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Africa%E2%80%99s+SureRemit+joins+the+tokenized+race+to+win+the+global+remittance+market&amp;rft.aulast=Jake&amp;rft.aufirst=Bright&amp;rft_id=https%3A%2F%2Ftechcrunch.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Tom Simonite (8 April 2015). <a rel="nofollow" class="external text" href="http://www.technologyreview.com/news/536641/a-new-competitor-for-bitcoin-aims-to-be-faster-and-safer/">"A New Competitor for Bitcoin Aims to Be Faster and Safer"</a>. MIT Technology Review<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+New+Competitor+for+Bitcoin+Aims+to+Be+Faster+and+Safer&amp;rft.pub=MIT+Technology+Review&amp;rft.date=2015-04-08&amp;rft.au=Tom+Simonite&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2Fnews%2F536641%2Fa-new-competitor-for-bitcoin-aims-to-be-faster-and-safer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStellar+%28payment+network%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.stellar.org">Official Website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Cryptocurrencies" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cryptocurrencies" title="Template:Cryptocurrencies"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cryptocurrencies" title="Template talk:Cryptocurrencies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cryptocurrencies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cryptocurrencies" style="font-size:114%;margin:0 4em"><a href="/wiki/Cryptocurrency" title="Cryptocurrency">Cryptocurrencies</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blockchain" title="Blockchain">Blockchain</a></li>
+<li><a href="/wiki/Cryptocurrency_tumbler" title="Cryptocurrency tumbler">Cryptocurrency tumbler</a></li>
+<li><a href="/wiki/Cryptocurrency_exchange" title="Cryptocurrency exchange">Cryptocurrency exchange</a></li>
+<li><a href="/wiki/Cryptocurrency_wallet" title="Cryptocurrency wallet">Cryptocurrency wallet</a></li>
+<li><a href="/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash function</a></li>
+<li><a href="/wiki/Distributed_ledger" title="Distributed ledger">Distributed ledger</a></li>
+<li><a href="/wiki/Fork_(blockchain)" title="Fork (blockchain)">Fork</a></li>
+<li><a href="/wiki/Lightning_Network" title="Lightning Network">Lightning Network</a></li>
+<li><a href="/wiki/Smart_contract" title="Smart contract">Smart contract</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Consensus_(computer_science)" title="Consensus (computer science)">Consensus</a> mechanisms</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Proof_of_authority" title="Proof of authority">Proof of authority</a></li>
+<li><a href="/wiki/Proof_of_space" title="Proof of space">Proof of space</a></li>
+<li><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a></li>
+<li><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a> currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/SHA-2" title="SHA-2">SHA-256</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a></li>
+<li><a href="/wiki/Bitcoin_Cash" title="Bitcoin Cash">Bitcoin Cash</a></li>
+<li><a href="/wiki/Counterparty_(platform)" title="Counterparty (platform)">Counterparty</a></li>
+<li><a href="/wiki/MazaCoin" title="MazaCoin">MazaCoin</a></li>
+<li><a href="/wiki/Namecoin" title="Namecoin">Namecoin</a></li>
+<li><a href="/wiki/Peercoin" title="Peercoin">Peercoin</a></li>
+<li><a href="/wiki/Titcoin" title="Titcoin">Titcoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ethash" title="Ethash">Ethash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ethereum" title="Ethereum">Ethereum</a></li>
+<li><a href="/wiki/Ethereum_Classic" title="Ethereum Classic">Ethereum Classic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scrypt" title="Scrypt">Scrypt</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auroracoin" title="Auroracoin">Auroracoin</a></li>
+<li><a href="/wiki/Bitconnect" title="Bitconnect">Bitconnect</a></li>
+<li><a href="/wiki/Bitcoin_Gold" title="Bitcoin Gold">Bitcoin Gold</a></li>
+<li><a href="/wiki/Coinye" title="Coinye">Coinye</a></li>
+<li><a href="/wiki/Dogecoin" title="Dogecoin">Dogecoin</a></li>
+<li><a href="/wiki/Litecoin" title="Litecoin">Litecoin</a></li>
+<li><a href="/wiki/PotCoin" title="PotCoin">PotCoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Equihash" title="Equihash">Equihash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zcash" title="Zcash">Zcash</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/CryptoNote" title="CryptoNote">CryptoNote</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Monero_(cryptocurrency)" title="Monero (cryptocurrency)">Monero</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/X11_algorithm" class="mw-redirect" title="X11 algorithm">X11</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dash_(cryptocurrency)" title="Dash (cryptocurrency)">Dash</a></li>
+<li><a href="/wiki/Petro_(cryptocurrency)" title="Petro (cryptocurrency)">Petro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lyra2" title="Lyra2">Lyra2</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Taler_(cryptocurrency)" title="Taler (cryptocurrency)">Taler</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmbaCoin" title="AmbaCoin">AmbaCoin</a></li>
+<li><a href="/wiki/Primecoin" title="Primecoin">Primecoin</a></li>
+<li><a href="/wiki/Verge_(cryptocurrency)" title="Verge (cryptocurrency)">Verge</a></li>
+<li><a href="/wiki/Vertcoin" title="Vertcoin">Vertcoin</a></li>
+<li><a href="/wiki/Zcoin" title="Zcoin">Zcoin</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a> currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gridcoin" title="Gridcoin">Gridcoin</a></li>
+<li><a href="/wiki/EOS.IO" title="EOS.IO">EOS.IO</a></li>
+<li><a href="/wiki/Nxt" title="Nxt">Nxt</a></li>
+<li><a href="/wiki/Steem" title="Steem">Steem</a></li>
+<li><a href="/wiki/Tezos" title="Tezos">Tezos</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ERC-20" class="mw-redirect" title="ERC-20">ERC-20</a> tokens</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aragon_(project)" title="Aragon (project)">Aragon</a></li>
+<li><a href="/wiki/Augur_(software)" title="Augur (software)">Augur</a></li>
+<li><a href="/wiki/Aventus_Protocol" title="Aventus Protocol">Aventus</a></li>
+<li><a href="/wiki/Basic_Attention_Token" class="mw-redirect" title="Basic Attention Token">Basic Attention Token</a></li>
+<li><a href="/wiki/Centra_Tech" title="Centra Tech">Centra</a></li>
+<li><a href="/wiki/Kin_(Token)" class="mw-redirect" title="Kin (Token)">Kin</a></li>
+<li><a href="/wiki/KodakCoin" title="KodakCoin">KodakCoin</a></li>
+<li><a href="/wiki/Minds" title="Minds">Minds</a></li>
+<li><a href="/wiki/Power_Ledger" title="Power Ledger">Power Ledger</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Daniel_Larimer#BitShares" title="Daniel Larimer">BitShares</a></li>
+<li><a href="/wiki/Filecoin" title="Filecoin">Filecoin</a></li>
+<li><a href="/wiki/GNU_Taler" title="GNU Taler">GNU Taler</a></li>
+<li><a href="/wiki/Libra_(cryptocurrency)" class="mw-redirect" title="Libra (cryptocurrency)">Libra</a></li>
+<li><a href="/wiki/Nano_(cryptocurrency)" title="Nano (cryptocurrency)">Nano</a></li>
+<li><a href="/wiki/NEM_(cryptocurrency)" title="NEM (cryptocurrency)">NEM</a></li>
+<li><a href="/wiki/NEO_(cryptocurrency)" title="NEO (cryptocurrency)">NEO</a></li>
+<li><a href="/wiki/Ripple_(payment_protocol)" title="Ripple (payment protocol)">XRP</a></li>
+<li><a class="mw-selflink selflink">Stellar</a></li>
+<li><a href="/wiki/Tether_(cryptocurrency)" title="Tether (cryptocurrency)">Tether</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airdrop_(cryptocurrency)" title="Airdrop (cryptocurrency)">Airdrop</a></li>
+<li><a href="/wiki/BitLicense" title="BitLicense">BitLicense</a></li>
+<li><a href="/wiki/Blockchain_game" class="mw-redirect" title="Blockchain game">Blockchain game</a></li>
+<li><a href="/wiki/Complementary_currency" title="Complementary currency">Complementary currency</a></li>
+<li><a href="/wiki/Crypto-anarchism" title="Crypto-anarchism">Crypto-anarchism</a></li>
+<li><a href="/wiki/Cryptocurrency_bubble" title="Cryptocurrency bubble">Cryptocurrency bubble</a> (<a href="/wiki/2018_cryptocurrency_crash" title="2018 cryptocurrency crash">2018 cryptocurrency crash</a>)</li>
+<li><a href="/wiki/Digital_currency" title="Digital currency">Digital currency</a></li>
+<li><a href="/wiki/Double-spending" title="Double-spending">Double-spending</a></li>
+<li><a href="/wiki/Initial_coin_offering" title="Initial coin offering">Initial coin offering</a></li>
+<li><a href="/wiki/Initial_exchange_offering" title="Initial exchange offering">Initial exchange offering</a></li>
+<li><a href="/wiki/Initiative_Q" title="Initiative Q">Initiative Q</a></li>
+<li><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List of cryptocurrencies</a></li>
+<li><a href="/wiki/Stablecoin" title="Stablecoin">Stablecoin</a></li>
+<li><a href="/wiki/Token_money" title="Token money">Token money</a></li>
+<li><a href="/wiki/Virtual_currency" title="Virtual currency">Virtual currency</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Cryptocurrency" class="extiw" title="commons:Category:Cryptocurrency">Commons</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1280
+Cached time: 20200213221443
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.436 seconds
+Real time usage: 0.574 seconds
+Preprocessor visited node count: 1871/1000000
+Post‐expand include size: 82852/2097152 bytes
+Template argument size: 1483/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 83308/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.235/10.000 seconds
+Lua memory usage: 6.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  504.547      1 -total
+ 41.85%  211.140      1 Template:Reflist
+ 36.77%  185.506     27 Template:Cite_web
+ 35.19%  177.555      1 Template:Infobox_software
+ 33.70%  170.043      1 Template:Infobox
+ 13.88%   70.044      1 Template:Advert
+  9.62%   48.518      1 Template:Ambox
+  9.04%   45.618      2 Template:Wikidata
+  6.93%   34.959      1 Template:Start_date_and_age
+  5.33%   26.872      1 Template:Cryptocurrencies
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43737395-0!canonical and timestamp 20200213221456 and revision id 940664663
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stellar_(payment_network)&amp;oldid=940664663">https://en.wikipedia.org/w/index.php?title=Stellar_(payment_network)&amp;oldid=940664663</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_protocols" title="Category:Internet protocols">Internet protocols</a></li><li><a href="/wiki/Category:Payment_systems" title="Category:Payment systems">Payment systems</a></li><li><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Cryptocurrencies</a></li><li><a href="/wiki/Category:Blockchains" title="Category:Blockchains">Blockchains</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_March_2018" title="Category:Articles with a promotional tone from March 2018">Articles with a promotional tone from March 2018</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stellar+%28payment+network%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stellar+%28payment+network%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Stellar_(payment_network)" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Stellar_(payment_network)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Stellar_(payment_network)">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stellar_(payment_network)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stellar_(payment_network)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stellar_(payment_network)&amp;oldid=940664663" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stellar_(payment_network)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17870327" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stellar_%28payment_network%29&amp;id=940664663" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stellar+%28payment+network%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stellar+%28payment+network%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stellar_(payment_network)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stellar_(Bezahlsystem)" title="Stellar (Bezahlsystem) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D8%B1" title="استلار – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Stellar_(protocole_de_paiement)" title="Stellar (protocole de paiement) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Stellar_(criptovaluta)" title="Stellar (criptovaluta) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Stellar" title="Stellar – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Stellar_(payment_protocol)" title="Stellar (payment protocol) – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Stellar" title="Stellar – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17870327#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 13 February 2020, at 22:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stellar_(payment_network)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.574","ppvisitednodes":{"value":1871,"limit":1000000},"postexpandincludesize":{"value":82852,"limit":2097152},"templateargumentsize":{"value":1483,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":83308,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  504.547      1 -total"," 41.85%  211.140      1 Template:Reflist"," 36.77%  185.506     27 Template:Cite_web"," 35.19%  177.555      1 Template:Infobox_software"," 33.70%  170.043      1 Template:Infobox"," 13.88%   70.044      1 Template:Advert","  9.62%   48.518      1 Template:Ambox","  9.04%   45.618      2 Template:Wikidata","  6.93%   34.959      1 Template:Start_date_and_age","  5.33%   26.872      1 Template:Cryptocurrencies"]},"scribunto":{"limitreport-timeusage":{"value":"0.235","limit":"10.000"},"limitreport-memusage":{"value":6838159,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20200213221443","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Stellar (payment network)","url":"https:\/\/en.wikipedia.org\/wiki\/Stellar_(payment_network)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17870327","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17870327","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-09-04T06:13:32Z","dateModified":"2020-02-13T22:14:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/56\/Stellar_Symbol.png","headline":"Payment & Exchange Network"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1239"});});</script></body></html>
