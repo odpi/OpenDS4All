@@ -8,7 +8,7 @@ There are two approaches to using this data:
 The instructor can download the zip file, unzip it (note that unzipping is optional since it can be done in the notebooks), put ‘linkedin_data_10000.json’, ‘linkedin.nodes’, and ‘linkedin_edges’ (or the zip files) on a server, and make the URL available to students.  Students can then use the python package ‘urllib’ to fetch the data. 
 
 2. Provide zip files to students:
-Make the zip files available to students, who can then unzip them. If students use Google Colab to run the notebook, then they must upload the files to their Google Drive and map the Google Drive to their Colab instance. The next step would be the same as running the notebook locally, where they put the data on a local computer and use the folder path to visit it. 
+Make the zip files available to students, who can then download them to local computer. If students use Google Colab to run the notebook, then instructor can share the files through Google Drive with students, who are then able to add the shared folder to their own Google Drive and map them to their Colab instance. The next step would be the same as running the notebook locally, where they store the data on a local computer (looks same like mapping Google Drive to Colab machine) and use the folder path to visit it. 
 
 ## Creating a MongoDB server
 There are two ways of doing this.  

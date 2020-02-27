@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dash (cryptocurrency) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlRP5QpAMNEAAyRKWFUAAACE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dash_(cryptocurrency)","wgTitle":"Dash (cryptocurrency)","wgCurRevisionId":942354341,"wgRevisionId":942354341,"wgArticleId":42935766,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles with short description","Articles containing potentially dated statements from June 2019","All articles containing potentially dated statements",
+"Articles containing potentially dated statements from April 2018","Articles containing potentially dated statements from February 2019","Cryptocurrencies","2014 software","Computer-related introductions in 2014"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dash_(cryptocurrency)","wgRelevantArticleId":42935766,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17155887","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg/1200px-Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dash_(cryptocurrency)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dash_cryptocurrency rootpage-Dash_cryptocurrency skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Dash (cryptocurrency)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Cryptocurrency</div>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightskyblue; padding: 0.5em 0em;">Dash</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Dash_logo_2018_rgb_for_screens.png" class="image"><img alt="Dash logo 2018 rgb for screens.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dash_logo_2018_rgb_for_screens.png/252px-Dash_logo_2018_rgb_for_screens.png" decoding="async" width="252" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dash_logo_2018_rgb_for_screens.png/378px-Dash_logo_2018_rgb_for_screens.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dash_logo_2018_rgb_for_screens.png/504px-Dash_logo_2018_rgb_for_screens.png 2x" data-file-width="2878" data-file-height="844" /></a><div>Dash Logo</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: lightskyblue;">Denominations</th></tr><tr><th scope="row"><a href="/wiki/Plural" title="Plural">Plural</a></th><td>Dash</td></tr><tr><th scope="row"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Ticker symbol</a></th><td>DASH</td></tr><tr><th scope="row">Previous names</th><td>Xcoin, Darkcoin</td></tr><tr><th scope="row">Subunits</th><td></td></tr><tr><th scope="row"><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">&#8194;&#x200b;<span class="frac nowrap"><sup>1</sup>&#8260;<sub>100000000</sub></span></span></th><td>duff</td></tr><tr><th colspan="2" style="text-align:center;background-color: lightskyblue;">Development</th></tr><tr><th scope="row"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Original author(s)</a></th><td>Evan Duffield</td></tr><tr><th scope="row"><a href="/wiki/White_paper" title="White paper">White paper</a></th><td><a rel="nofollow" class="external text" href="https://github.com/dashpay/dash/wiki/Whitepaper">Whitepaper</a></td></tr><tr><th scope="row">Initial release</th><td>18&#160;January 2014<span class="noprint">&#32;(6 years ago)</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2014-01-18</span>)</span></td></tr><tr><th scope="row"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Latest release</a></th><td>0.14.0.5 / 8&#160;December 2019<span class="noprint">&#32;(2 months ago)</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2019-12-08</span>)</span></td></tr><tr><th scope="row"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Code repository</a></th><td><span class="url"><a rel="nofollow" class="external text" href="https://github.com/dashpay">github<wbr />.com<wbr />/dashpay</a></span></td></tr><tr><th scope="row"><a href="/wiki/Programming_language" title="Programming language">Written in</a></th><td>C++</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://dash.org">dash<wbr />.org</a></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: lightskyblue;">Ledger</th></tr><tr><th scope="row"><a href="/wiki/Trusted_timestamping" title="Trusted timestamping">Timestamping scheme</a></th><td><a href="/wiki/Proof-of-work_system" class="mw-redirect" title="Proof-of-work system">Proof-of-work</a></td></tr><tr><th scope="row"><a href="/wiki/Hash_function" title="Hash function">Hash function</a></th><td>X11</td></tr><tr><th scope="row">Issuance schedule</th><td>Decentralized, block reward</td></tr><tr><th scope="row">Block reward</th><td>3.11 DASH (as of 25&#160;June&#160;2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit">&#91;update&#93;</a></sup>)</td></tr><tr><th scope="row">Block time</th><td>2.5 minutes</td></tr><tr><th scope="row">Block explorer</th><td><span class="url"><a rel="nofollow" class="external text" href="http://insight.dash.org">insight<wbr />.dash<wbr />.org</a></span></td></tr><tr><th scope="row">Circulating supply</th><td>8.883.343 DASH (as of 25&#160;June&#160;2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit">&#91;update&#93;</a></sup>)</td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil,_PL,_EU._CC0.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg/220px-Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg/330px-Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg/440px-Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg 2x" data-file-width="2560" data-file-height="1440" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil,_PL,_EU._CC0.jpg" class="internal" title="Powiększ"></a></div>Inside shop with cryptocurrency Dash in <a href="/wiki/Tomasz%C3%B3w_Mazowiecki" title="Tomaszów Mazowiecki">Tomaszów Mazowiecki</a>, Poland</div></div></div>
+<p><b>Dash</b> is an <a href="/wiki/Open_source" title="Open source">open source</a> <a href="/wiki/Cryptocurrency" title="Cryptocurrency">cryptocurrency</a>. It is an <a href="/wiki/Altcoin" class="mw-redirect" title="Altcoin">altcoin</a> that was <a href="/wiki/Fork_(software_development)" title="Fork (software development)">forked</a> from the <a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a> protocol. It is also a <a href="/wiki/Decentralized_autonomous_organization" title="Decentralized autonomous organization">decentralized autonomous organization</a> (DAO) run by a subset of its users, which are called "masternodes". The currency permits transactions that can be untraceable.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Design_and_governance"><span class="tocnumber">2</span> <span class="toctext">Design and governance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Governance"><span class="tocnumber">2.1</span> <span class="toctext">Governance</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Consensus"><span class="tocnumber">2.2</span> <span class="toctext">Consensus</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Transactions"><span class="tocnumber">2.3</span> <span class="toctext">Transactions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Dash-funded_organizations"><span class="tocnumber">3</span> <span class="toctext">Dash-funded organizations</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The currency was launched in January 2014 as "Xcoin" by Evan Duffield, as a <a href="/wiki/Fork_(blockchain)" title="Fork (blockchain)">fork</a> of the <a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a> protocol.<sup id="cite_ref-fintech_1-0" class="reference"><a href="#cite_note-fintech-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> It is an <a href="/wiki/Altcoin" class="mw-redirect" title="Altcoin">altcoin</a> and in its early days it was subject to <a href="/wiki/Pump_and_dump" title="Pump and dump">pump and dump</a> speculation.<sup id="cite_ref-Fortune_3-0" class="reference"><a href="#cite_note-Fortune-3">&#91;3&#93;</a></sup> It was rebranded as Darkcoin<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup>, which received press for being used in dark net markets.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> In March 2015, it rebranded again with the name Dash as a <a href="/wiki/Portmanteau" title="Portmanteau">portmanteau</a> of 'digital cash'.<sup id="cite_ref-Fortune_3-1" class="reference"><a href="#cite_note-Fortune-3">&#91;3&#93;</a></sup> As of August 2016, Dash is no longer used in any major dark net markets worth noting.<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup>
+</p><p>In early 2017 Duffield, who lived in the <a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix area</a>, and some other people working on Dash took space in a <a href="/wiki/Business_incubator" title="Business incubator">business incubator</a> at <a href="/wiki/Arizona_State_University" title="Arizona State University">Arizona State University</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The Dash DAO later funded a blockchain research lab at ASU.<sup id="cite_ref-3TV_7-0" class="reference"><a href="#cite_note-3TV-7">&#91;7&#93;</a></sup>
+</p><p>As of April&#160;2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit">&#91;update&#93;</a></sup>, Dash's <a href="/wiki/Market_capitalization" title="Market capitalization">market capitalization</a> was around $4.3 billion and it was one of the top 12 cryptocurrencies.<sup id="cite_ref-MIT_8-0" class="reference"><a href="#cite_note-MIT-8">&#91;8&#93;</a></sup>
+</p><p>As of February&#160;2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit">&#91;update&#93;</a></sup>, Dash was the most popular cryptocurrency in Venezuela according to <a href="/wiki/Der_Spiegel" title="Der Spiegel">Der Spiegel</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Design_and_governance">Design and governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=2" title="Edit section: Design and governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dash was designed to allow transactions quickly and to have a swift governance structure in order to overcome shortfalls in <a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a>.<sup id="cite_ref-Fortune_3-2" class="reference"><a href="#cite_note-Fortune-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=3" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Governance is handled through a form of <a href="/wiki/Decentralized_autonomous_organization" title="Decentralized autonomous organization">decentralized autonomous organization</a> in which decisions are made on a <a href="/wiki/Blockchain" title="Blockchain">blockchain</a> via masternodes. Masternodes perform standard <a href="/wiki/Node_(networking)" title="Node (networking)">node</a> functions like hosting a copy of the blockchain, relaying messages, and validating transactions on the network, and in addition act as shareholders, voting on proposals for improving Dash's ecosystem. Along with masternodes, the system includes standard nodes and <a href="/wiki/Bitcoin_network#Mining" title="Bitcoin network">miners</a>.<sup id="cite_ref-fintech_1-1" class="reference"><a href="#cite_note-fintech-1">&#91;1&#93;</a></sup><sup id="cite_ref-Prusty_10-0" class="reference"><a href="#cite_note-Prusty-10">&#91;10&#93;</a></sup>
+</p><p>Running a masternode requires ownership of 1000 Dash. Masternodes are also required to have a static IP address and meet minimum requirements for CPU, RAM, disk space and network bandwidth.<sup id="cite_ref-Prusty_10-1" class="reference"><a href="#cite_note-Prusty-10">&#91;10&#93;</a></sup>
+</p><p>A proof of service protocol ensures that masternodes have the most current blockchain protocol and are online.<sup id="cite_ref-Prusty_10-2" class="reference"><a href="#cite_note-Prusty-10">&#91;10&#93;</a></sup>
+</p><p>The system's decentralization has been criticized due to a mishap, which allowed too many coins to be distributed at release. This concentrated the wealth to a small group, giving them disproportionate power in decisions over the currency’s future.<sup id="cite_ref-MIT_8-1" class="reference"><a href="#cite_note-MIT-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Consensus">Consensus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=4" title="Edit section: Consensus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span id="X11"></span>
+As of 2018 coins were mined using a <a href="/wiki/Proof_of_work" title="Proof of work">proof of work</a> algorithm with a <a href="/wiki/Hash_function" title="Hash function">hash function</a> called "X11", with eleven rounds of hashing, and the average time to mine a coin was around two and a half minutes.<sup id="cite_ref-fintech_1-2" class="reference"><a href="#cite_note-fintech-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Transactions">Transactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=5" title="Edit section: Transactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Masternodes provide two additional kinds of transactions. "InstantSend" bypasses mining and instead requires a consensus of masternodes to validate a transaction, speeding transactions.<sup id="cite_ref-Fortune_3-3" class="reference"><a href="#cite_note-Fortune-3">&#91;3&#93;</a></sup><sup id="cite_ref-fintech_1-3" class="reference"><a href="#cite_note-fintech-1">&#91;1&#93;</a></sup>  "PrivateSend" is intended to make transactions untraceable; it mixes participating users' unspent Dash before executing a transaction.<sup id="cite_ref-fintech_1-4" class="reference"><a href="#cite_note-fintech-1">&#91;1&#93;</a></sup><sup id="cite_ref-Prusty_10-3" class="reference"><a href="#cite_note-Prusty-10">&#91;10&#93;</a></sup>
+</p><p>In 2018 the <a href="/wiki/E-commerce_payment_system" title="E-commerce payment system">e-commerce payment system</a> company Alt Thirty Six (Alternative36, Inc.) began offering electronic payments in Dash for companies in the legal <a href="/wiki/Cannabis" title="Cannabis">cannabis</a> industry in the <a href="/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-3TV_7-1" class="reference"><a href="#cite_note-3TV-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Dash-funded_organizations">Dash-funded organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=6" title="Edit section: Dash-funded organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Dash DAO uses the 10% it receives from mining to invest as the DAO chooses.<sup id="cite_ref-Prusty_10-4" class="reference"><a href="#cite_note-Prusty-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-fintech-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fintech_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fintech_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fintech_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fintech_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-fintech_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Lee, David; Low, Linda (21 Jun 2018). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=HCpjDwAAQBAJ&amp;pg=PA219"><i>Inclusive Fintech: Blockchain, Cryptocurrency And ICO</i></a>. Singapore: World Scientific. p.&#160;219. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789813238657" title="Special:BookSources/9789813238657"><bdi>9789813238657</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inclusive+Fintech%3A+Blockchain%2C+Cryptocurrency+And+ICO&amp;rft.place=Singapore&amp;rft.pages=219&amp;rft.pub=World+Scientific&amp;rft.date=2018-06-21&amp;rft.isbn=9789813238657&amp;rft.aulast=Lee&amp;rft.aufirst=David&amp;rft.au=Low%2C+Linda&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DHCpjDwAAQBAJ%26pg%3DPA219&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-cryptocurrency-2017-factbox/bitcoin-may-be-king-but-ripple-dark-horse-in-crypto-race-idUSKBN1ES1PT">"Bitcoin may be king, but Ripple dark horse in crypto race"</a>. <i>Reuters</i>. January 3, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Bitcoin+may+be+king%2C+but+Ripple+dark+horse+in+crypto+race&amp;rft.date=2018-01-03&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-cryptocurrency-2017-factbox%2Fbitcoin-may-be-king-but-ripple-dark-horse-in-crypto-race-idUSKBN1ES1PT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Fortune-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fortune_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fortune_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fortune_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Fortune_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Eha, Brian (26 June 2017). <a rel="nofollow" class="external text" href="http://fortune.com/2017/06/26/bitcoin-blockchain-cryptocurrency-market/">"Can Bitcoin's First Felon Help Make Cryptocurrency a Trillion-Dollar Market?"</a>. <i>Fortune</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Can+Bitcoin%E2%80%99s+First+Felon+Help+Make+Cryptocurrency+a+Trillion-Dollar+Market%3F&amp;rft.date=2017-06-26&amp;rft.aulast=Eha&amp;rft.aufirst=Brian&amp;rft_id=http%3A%2F%2Ffortune.com%2F2017%2F06%2F26%2Fbitcoin-blockchain-cryptocurrency-market%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://motherboard.vice.com/en_us/article/jpgv8k/monero-cryptocurrency-dark-net-drug-dealers-hope-more-anonymous-than-bitcoin-alphabay">"Meet Monero, the Currency Dark Net Dealers Hope Is More Anonymous Than Bitcoin"</a>. <i>Motherboard</i>. 2016-08-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Motherboard&amp;rft.atitle=Meet+Monero%2C+the+Currency+Dark+Net+Dealers+Hope+Is+More+Anonymous+Than+Bitcoin&amp;rft.date=2016-08-23&amp;rft_id=https%3A%2F%2Fmotherboard.vice.com%2Fen_us%2Farticle%2Fjpgv8k%2Fmonero-cryptocurrency-dark-net-drug-dealers-hope-more-anonymous-than-bitcoin-alphabay&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.wired.com/2014/11/darkcoin-and-online-drug-dealers/">"Online Drug Dealers Are Now Accepting Darkcoin, Bitcoin's Stealthier Cousin"</a>. <i>WIRED</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WIRED&amp;rft.atitle=Online+Drug+Dealers+Are+Now+Accepting+Darkcoin%2C+Bitcoin%27s+Stealthier+Cousin&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2014%2F11%2Fdarkcoin-and-online-drug-dealers%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170820042811/https://economicdevelopment.asu.edu/calendar/dash-open-house">"Dash Open House"</a>. Arizona State University. March 30, 2017. Archived from <a rel="nofollow" class="external text" href="https://economicdevelopment.asu.edu/calendar/dash-open-house">the original</a> on August 20, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dash+Open+House&amp;rft.pub=Arizona+State+University&amp;rft.date=2017-03-30&amp;rft_id=https%3A%2F%2Feconomicdevelopment.asu.edu%2Fcalendar%2Fdash-open-house&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-3TV-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-3TV_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-3TV_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Moore, Heather (24 Aug 2018). <a rel="nofollow" class="external text" href="http://www.azfamily.com/story/38953026/cryptocurrency-dash-aims-to-give-mainstream-money-a-run">"Cryptocurrency Dash aims to give mainstream money a run"</a>. <i>3TV/CBS5</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=3TV%2FCBS5&amp;rft.atitle=Cryptocurrency+Dash+aims+to+give+mainstream+money+a+run&amp;rft.date=2018-08-24&amp;rft.aulast=Moore&amp;rft.aufirst=Heather&amp;rft_id=http%3A%2F%2Fwww.azfamily.com%2Fstory%2F38953026%2Fcryptocurrency-dash-aims-to-give-mainstream-money-a-run&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-MIT-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-MIT_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MIT_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Orcutt, Mike (April 25, 2018). <a rel="nofollow" class="external text" href="https://www.technologyreview.com/s/610835/the-top-12-cryptocurrencies-and-what-they-are-and-arent-good-for/">"The top 12 cryptocurrencies and what they are—and aren't—good for"</a>. <i>MIT Technology Review</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MIT+Technology+Review&amp;rft.atitle=The+top+12+cryptocurrencies+and+what+they+are%E2%80%94and+aren%E2%80%99t%E2%80%94good+for&amp;rft.date=2018-04-25&amp;rft.aulast=Orcutt&amp;rft.aufirst=Mike&amp;rft_id=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F610835%2Fthe-top-12-cryptocurrencies-and-what-they-are-and-arent-good-for%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Glüsing, Jens (February 2, 2019). <a rel="nofollow" class="external text" href="http://www.spiegel.de/wirtschaft/soziales/venezuela-nichts-zu-essen-aber-kostenlos-benzin-das-plant-juan-guaido-a-1251621.html">"Nichts zu essen, aber kostenlos Benzin"</a>. <i>Der Spiegel</i> (in German).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Der+Spiegel&amp;rft.atitle=Nichts+zu+essen%2C+aber+kostenlos+Benzin&amp;rft.date=2019-02-02&amp;rft.aulast=Gl%C3%BCsing&amp;rft.aufirst=Jens&amp;rft_id=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fsoziales%2Fvenezuela-nichts-zu-essen-aber-kostenlos-benzin-das-plant-juan-guaido-a-1251621.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+<li id="cite_note-Prusty-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Prusty_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Prusty_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Prusty_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Prusty_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Prusty_10-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Prusty, Narayan (27 Apr 2017). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=80EwDwAAQBAJ&amp;pg=PA19"><i>Building Blockchain Projects</i></a>. Birmingham, UK: Packt. pp.&#160;19–21. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781787125339" title="Special:BookSources/9781787125339"><bdi>9781787125339</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Building+Blockchain+Projects&amp;rft.place=Birmingham%2C+UK&amp;rft.pages=19-21&amp;rft.pub=Packt&amp;rft.date=2017-04-27&amp;rft.isbn=9781787125339&amp;rft.aulast=Prusty&amp;rft.aufirst=Narayan&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3D80EwDwAAQBAJ%26pg%3DPA19&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADash+%28cryptocurrency%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul>
+<li><span><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bills_and_coins.svg/32px-Bills_and_coins.svg.png" decoding="async" width="32" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bills_and_coins.svg/48px-Bills_and_coins.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bills_and_coins.svg/64px-Bills_and_coins.svg.png 2x" data-file-width="960" data-file-height="465" /></span><span><a href="/wiki/Portal:Money" title="Portal:Money">Money portal</a></span></li></ul></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Dash_(cryptocurrency)" class="extiw" title="commons:Special:Search/Dash (cryptocurrency)">Dash (cryptocurrency)</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.dash.org">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Cryptocurrencies" style="padding:3px"><table class="nowraplinks hlist mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cryptocurrencies" title="Template:Cryptocurrencies"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cryptocurrencies" title="Template talk:Cryptocurrencies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cryptocurrencies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cryptocurrencies" style="font-size:114%;margin:0 4em"><a href="/wiki/Cryptocurrency" title="Cryptocurrency">Cryptocurrencies</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blockchain" title="Blockchain">Blockchain</a></li>
+<li><a href="/wiki/Cryptocurrency_tumbler" title="Cryptocurrency tumbler">Cryptocurrency tumbler</a></li>
+<li><a href="/wiki/Cryptocurrency_exchange" title="Cryptocurrency exchange">Cryptocurrency exchange</a></li>
+<li><a href="/wiki/Cryptocurrency_wallet" title="Cryptocurrency wallet">Cryptocurrency wallet</a></li>
+<li><a href="/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash function</a></li>
+<li><a href="/wiki/Distributed_ledger" title="Distributed ledger">Distributed ledger</a></li>
+<li><a href="/wiki/Fork_(blockchain)" title="Fork (blockchain)">Fork</a></li>
+<li><a href="/wiki/Lightning_Network" title="Lightning Network">Lightning Network</a></li>
+<li><a href="/wiki/Smart_contract" title="Smart contract">Smart contract</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Consensus_(computer_science)" title="Consensus (computer science)">Consensus</a> mechanisms</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Proof_of_authority" title="Proof of authority">Proof of authority</a></li>
+<li><a href="/wiki/Proof_of_space" title="Proof of space">Proof of space</a></li>
+<li><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a></li>
+<li><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a> currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/SHA-2" title="SHA-2">SHA-256</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a></li>
+<li><a href="/wiki/Bitcoin_Cash" title="Bitcoin Cash">Bitcoin Cash</a></li>
+<li><a href="/wiki/Counterparty_(platform)" title="Counterparty (platform)">Counterparty</a></li>
+<li><a href="/wiki/MazaCoin" title="MazaCoin">MazaCoin</a></li>
+<li><a href="/wiki/Namecoin" title="Namecoin">Namecoin</a></li>
+<li><a href="/wiki/Peercoin" title="Peercoin">Peercoin</a></li>
+<li><a href="/wiki/Titcoin" title="Titcoin">Titcoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ethash" title="Ethash">Ethash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ethereum" title="Ethereum">Ethereum</a></li>
+<li><a href="/wiki/Ethereum_Classic" title="Ethereum Classic">Ethereum Classic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scrypt" title="Scrypt">Scrypt</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auroracoin" title="Auroracoin">Auroracoin</a></li>
+<li><a href="/wiki/Bitconnect" title="Bitconnect">Bitconnect</a></li>
+<li><a href="/wiki/Bitcoin_Gold" title="Bitcoin Gold">Bitcoin Gold</a></li>
+<li><a href="/wiki/Coinye" title="Coinye">Coinye</a></li>
+<li><a href="/wiki/Dogecoin" title="Dogecoin">Dogecoin</a></li>
+<li><a href="/wiki/Litecoin" title="Litecoin">Litecoin</a></li>
+<li><a href="/wiki/PotCoin" title="PotCoin">PotCoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Equihash" title="Equihash">Equihash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zcash" title="Zcash">Zcash</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/CryptoNote" title="CryptoNote">CryptoNote</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Monero_(cryptocurrency)" title="Monero (cryptocurrency)">Monero</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/X11_algorithm" class="mw-redirect" title="X11 algorithm">X11</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Dash</a></li>
+<li><a href="/wiki/Petro_(cryptocurrency)" title="Petro (cryptocurrency)">Petro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lyra2" title="Lyra2">Lyra2</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Taler_(cryptocurrency)" title="Taler (cryptocurrency)">Taler</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmbaCoin" title="AmbaCoin">AmbaCoin</a></li>
+<li><a href="/wiki/Primecoin" title="Primecoin">Primecoin</a></li>
+<li><a href="/wiki/Verge_(cryptocurrency)" title="Verge (cryptocurrency)">Verge</a></li>
+<li><a href="/wiki/Vertcoin" title="Vertcoin">Vertcoin</a></li>
+<li><a href="/wiki/Zcoin" title="Zcoin">Zcoin</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a> currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gridcoin" title="Gridcoin">Gridcoin</a></li>
+<li><a href="/wiki/EOS.IO" title="EOS.IO">EOS.IO</a></li>
+<li><a href="/wiki/Nxt" title="Nxt">Nxt</a></li>
+<li><a href="/wiki/Steem" title="Steem">Steem</a></li>
+<li><a href="/wiki/Tezos" title="Tezos">Tezos</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ERC-20" class="mw-redirect" title="ERC-20">ERC-20</a> tokens</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aragon_(project)" title="Aragon (project)">Aragon</a></li>
+<li><a href="/wiki/Augur_(software)" title="Augur (software)">Augur</a></li>
+<li><a href="/wiki/Aventus_Protocol" title="Aventus Protocol">Aventus</a></li>
+<li><a href="/wiki/Basic_Attention_Token" class="mw-redirect" title="Basic Attention Token">Basic Attention Token</a></li>
+<li><a href="/wiki/Centra_Tech" title="Centra Tech">Centra</a></li>
+<li><a href="/wiki/Kin_(Token)" class="mw-redirect" title="Kin (Token)">Kin</a></li>
+<li><a href="/wiki/KodakCoin" title="KodakCoin">KodakCoin</a></li>
+<li><a href="/wiki/Minds" title="Minds">Minds</a></li>
+<li><a href="/wiki/Power_Ledger" title="Power Ledger">Power Ledger</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Daniel_Larimer#BitShares" title="Daniel Larimer">BitShares</a></li>
+<li><a href="/wiki/Filecoin" title="Filecoin">Filecoin</a></li>
+<li><a href="/wiki/GNU_Taler" title="GNU Taler">GNU Taler</a></li>
+<li><a href="/wiki/Libra_(cryptocurrency)" class="mw-redirect" title="Libra (cryptocurrency)">Libra</a></li>
+<li><a href="/wiki/Nano_(cryptocurrency)" title="Nano (cryptocurrency)">Nano</a></li>
+<li><a href="/wiki/NEM_(cryptocurrency)" title="NEM (cryptocurrency)">NEM</a></li>
+<li><a href="/wiki/NEO_(cryptocurrency)" title="NEO (cryptocurrency)">NEO</a></li>
+<li><a href="/wiki/Ripple_(payment_protocol)" title="Ripple (payment protocol)">XRP</a></li>
+<li><a href="/wiki/Stellar_(payment_network)" title="Stellar (payment network)">Stellar</a></li>
+<li><a href="/wiki/Tether_(cryptocurrency)" title="Tether (cryptocurrency)">Tether</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airdrop_(cryptocurrency)" title="Airdrop (cryptocurrency)">Airdrop</a></li>
+<li><a href="/wiki/BitLicense" title="BitLicense">BitLicense</a></li>
+<li><a href="/wiki/Blockchain_game" class="mw-redirect" title="Blockchain game">Blockchain game</a></li>
+<li><a href="/wiki/Complementary_currency" title="Complementary currency">Complementary currency</a></li>
+<li><a href="/wiki/Crypto-anarchism" title="Crypto-anarchism">Crypto-anarchism</a></li>
+<li><a href="/wiki/Cryptocurrency_bubble" title="Cryptocurrency bubble">Cryptocurrency bubble</a> (<a href="/wiki/2018_cryptocurrency_crash" title="2018 cryptocurrency crash">2018 cryptocurrency crash</a>)</li>
+<li><a href="/wiki/Digital_currency" title="Digital currency">Digital currency</a></li>
+<li><a href="/wiki/Double-spending" title="Double-spending">Double-spending</a></li>
+<li><a href="/wiki/Initial_coin_offering" title="Initial coin offering">Initial coin offering</a></li>
+<li><a href="/wiki/Initial_exchange_offering" title="Initial exchange offering">Initial exchange offering</a></li>
+<li><a href="/wiki/Initiative_Q" title="Initiative Q">Initiative Q</a></li>
+<li><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List of cryptocurrencies</a></li>
+<li><a href="/wiki/Stablecoin" title="Stablecoin">Stablecoin</a></li>
+<li><a href="/wiki/Token_money" title="Token money">Token money</a></li>
+<li><a href="/wiki/Virtual_currency" title="Virtual currency">Virtual currency</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Cryptocurrency" class="extiw" title="commons:Category:Cryptocurrency">Commons</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1316
+Cached time: 20200224043628
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.476 seconds
+Real time usage: 0.650 seconds
+Preprocessor visited node count: 2879/1000000
+Post‐expand include size: 66307/2097152 bytes
+Template argument size: 5728/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34753/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.209/10.000 seconds
+Lua memory usage: 4.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  566.551      1 -total
+ 31.51%  178.530      1 Template:Infobox_cryptocurrency
+ 30.00%  169.992      1 Template:Infobox
+ 27.66%  156.724      1 Template:Reflist
+ 15.55%   88.073      2 Template:Cite_book
+ 11.18%   63.316      1 Template:Short_description
+  8.45%   47.875      1 Template:Official_website
+  8.23%   46.626      2 Template:Start_date_and_age
+  7.90%   44.775      1 Template:Pagetype
+  6.27%   35.507      4 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42935766-0!canonical and timestamp 20200224043645 and revision id 942354341
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dash_(cryptocurrency)&amp;oldid=942354341">https://en.wikipedia.org/w/index.php?title=Dash_(cryptocurrency)&amp;oldid=942354341</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Cryptocurrencies</a></li><li><a href="/wiki/Category:2014_software" title="Category:2014 software">2014 software</a></li><li><a href="/wiki/Category:Computer-related_introductions_in_2014" title="Category:Computer-related introductions in 2014">Computer-related introductions in 2014</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_June_2019" title="Category:Articles containing potentially dated statements from June 2019">Articles containing potentially dated statements from June 2019</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_April_2018" title="Category:Articles containing potentially dated statements from April 2018">Articles containing potentially dated statements from April 2018</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_February_2019" title="Category:Articles containing potentially dated statements from February 2019">Articles containing potentially dated statements from February 2019</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dash+%28cryptocurrency%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dash+%28cryptocurrency%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Dash_(cryptocurrency)" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Dash_(cryptocurrency)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Dash_(cryptocurrency)">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dash_(cryptocurrency)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dash_(cryptocurrency)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;oldid=942354341" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17155887" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dash_%28cryptocurrency%29&amp;id=942354341" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		In other projects
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dash_(cryptocurrency)" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dash+%28cryptocurrency%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dash+%28cryptocurrency%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dash_(cryptocurrency)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B4_(%D8%B9%D9%85%D9%84%D8%A9_%D9%85%D8%B4%D9%81%D8%B1%D8%A9)" title="داش (عملة مشفرة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B0%D1%88_(%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%83%D1%82%D0%B0)" title="Даш (криптовалута) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Dash_(kryptom%C4%9Bna)" title="Dash (kryptoměna) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Dash" title="Dash – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Dash_(Kryptow%C3%A4hrung)" title="Dash (Kryptowährung) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Dash_(criptomoneda)" title="Dash (criptomoneda) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B4" title="دش – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dash_(crypto-monnaie)" title="Dash (crypto-monnaie) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8C%80%EC%8B%9C_(%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90)" title="대시 (암호화폐) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Dash_(kriptovaluta)" title="Dash (kriptovaluta) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dash_(criptovaluta)" title="Dash (criptovaluta) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Dash_(%E6%9A%97%E5%8F%B7%E9%80%9A%E8%B2%A8)" title="Dash (暗号通貨) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dash_(kryptowaluta)" title="Dash (kryptowaluta) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dash_(criptomoeda)" title="Dash (criptomoeda) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Dash_(%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B0)" title="Dash (криптовалюта) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Dash" title="Dash – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%81%94%E4%B8%96%E5%B9%A3" title="達世幣 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17155887#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 24 February 2020, at 04:36<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dash_(cryptocurrency)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.650","ppvisitednodes":{"value":2879,"limit":1000000},"postexpandincludesize":{"value":66307,"limit":2097152},"templateargumentsize":{"value":5728,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34753,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  566.551      1 -total"," 31.51%  178.530      1 Template:Infobox_cryptocurrency"," 30.00%  169.992      1 Template:Infobox"," 27.66%  156.724      1 Template:Reflist"," 15.55%   88.073      2 Template:Cite_book"," 11.18%   63.316      1 Template:Short_description","  8.45%   47.875      1 Template:Official_website","  8.23%   46.626      2 Template:Start_date_and_age","  7.90%   44.775      1 Template:Pagetype","  6.27%   35.507      4 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.209","limit":"10.000"},"limitreport-memusage":{"value":4975407,"limit":52428800}},"cachereport":{"origin":"mw1316","timestamp":"20200224043628","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dash (cryptocurrency)","url":"https:\/\/en.wikipedia.org\/wiki\/Dash_(cryptocurrency)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17155887","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17155887","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-06-01T18:28:37Z","dateModified":"2020-02-24T04:36:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b5\/Tomasz%C3%B3w_Mazowiecki_w_wojew%C3%B3dztwie_%C5%82%C3%B3dzkim._Naziemny_punkt_sprzeda%C5%BCy_kryptowaluty_przy_ulicy_Wandy_Panfil%2C_PL%2C_EU._CC0.jpg","headline":"cryptocurrency"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1367"});});</script></body></html>
