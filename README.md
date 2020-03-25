@@ -36,7 +36,7 @@ Each category contains modules and each module consists of one or more of the fo
 * sample homework assignments (where applicable)
 * additional documentation (where applicable)
 
-__Note:__ The PowerPoint slides are not directly viewable on GitHub. After you clicked on the link to a set of PowePoint slides you need to select the Download button to download and view the slide deck. Two viewable extracts from the slide decks can be seen by clickeing on the links below:  
+__Note:__ The PowerPoint slides are not directly viewable on GitHub. After you clicked on the link to a set of PowePoint slides you need to select the Download button to download and view the slide deck. Two viewable extracts from the slide decks can be seen by clicking on the links below:  
 - [INTRODUCTION-Data-Science-basic.pptx](https://www.slideshare.net/secret/MCRawtu2jX7DhE)
 - [DATA-WRANGLING-Import-Link-mixed.pptx](https://www.slideshare.net/secret/2DjxZscaxVQIAt)
 
