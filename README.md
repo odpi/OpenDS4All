@@ -62,6 +62,10 @@ OpenDS4All is a project hosted by [ODPi](https://odpi.org). This project has est
 
 To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is sensitive in nature or a security related issue, please do not report in the issue tracker but instead email odpi-opends4all-private@lists.odpi.org.
 
+# Contact Us
+
+If you want to contact us, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email odpi-opends4all-private@lists.odpi.org.
+
 # Learn More
 
 If you are interested in collaborating on the project, please [sign up](https://cloud.email.thelinuxfoundation.org/ODPi-OpenDS4All).
