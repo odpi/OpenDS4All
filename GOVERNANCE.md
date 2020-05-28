@@ -1,22 +1,22 @@
 # Overview
 
-This project aims to governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affiliation. Participants all our bound the project's [Code of Conduct](CODE_OF_CONDUCT.md).
+This project aims to govern in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affiliation. Participants are all bound to the project's [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Project roles
 
 ### Contributor
 
-The contributor role is the starting role for anyone participating in the project and wishing to contribute training materials (e.g. PowerPoint slides, Jupyter notebooks containg Python code and other documentation).
+The contributor role is the starting role for anyone participating in the project and wishing to contribute training materials (e.g. PowerPoint slides, Jupyter notebooks containing Python code and other documentation).
 
 #### Process for becoming a contributor
 
 * Review the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines to ensure your contribution is inline with the project's coding, styling and other guidelines.
 * Submit your training materials as a Pull Request (PR) with the appropriate Developer Certificate of Origin (DCO) signoff.
-* Have you submission approved by the maintainer(s) and merged into the codebase.
+* Have your submission approved by the maintainer(s) and merged into the codebase.
 
 ### Committer
 
-The committer role enables the participation to commit training materials directly to the repository, but also comes with the responsibility of being a responsible leader in the community.
+The committer role enables the participants to commit training materials directly to the repository, but also comes with the responsibility of being a responsible leader in the community.
 
 #### Process for becoming a committer
 
