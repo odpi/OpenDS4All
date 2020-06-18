@@ -12,6 +12,8 @@ The project hosts educational modules that may be used as building blocks for a 
 
 __Note:__ The link **[opends4all-resources](opends4all-resources)** takes you to the opends4all curriculum building blocks organized by category.
 
+__Note:__ If you adopt all or some of the content, please add your program's details to the [ADOPTERS.csv](ADOPTERS.csv) file.
+
 # Audience (Instructor and Student)
 
 The initial modules were designed to target a broad, cross-university audience at both the undergraduate and graduate levels.  Modules contain instructor notes and comments intended to aid in the delivery of the material; the expectation is that instructors will be generally fluent in basic database and machine learning concepts.
