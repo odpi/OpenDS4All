@@ -27,9 +27,22 @@ Colab has several major positives:
 
 However, it does require a Google account, and performance depends somewhat on availability of Google cloud resources.
 
-### 1.2 Microsoft Azure Notebooks
+### 1.2 Microsoft Azure
 
-Sign up by clicking on "Try It Now" at: [https://notebooks.azure.com/](https://notebooks.azure.com/).  You can Sign in using a Microsoft account, and from the "My Projects" page you will be able to launch new environments and notebooks.
+#### Azure Notebooks 
+
+Sign up by clicking on "Try It Now" at: [https://notebooks.azure.com/](https://notebooks.azure.com/).  You can Sign in using a Microsoft accouhttps://visualstudio.microsoft.com/services/visual-studio-codespaces/nt, and from the "My Projects" page you will be able to launch new environments and notebooks.
+
+#### Visual Studio Online Codespaces 
+Cloud-hosted dev environments accessible from anywhere, Visual Studio Codespaces has a browser-based VS Codeeditor with support for Git repos, VS Code extensions, and a built-in command line interface so you can edit, run, and debug  your applications from any device. "Try It Now" at: [https://visualstudio.microsoft.com/services/visual-studio-codespaces](https://visualstudio.microsoft.com/services/visual-studio-codespaces).
+
+#### Azure Machine Learning Services 
+Azure Machine Learning can be used for any kind of machine learning, from classical ml to deep learning, supervised, and unsupervised learning. Whether you prefer to write Python or R code or zero-code/low-code options such as the designer, you can build, train, and track highly accurate machine learning and deep-learning models in an Azure Machine Learning Workspace.
+"Try It Now" at: [https://azure.microsoft.com/en-us/services/machine-learning](https://azure.microsoft.com/en-us/services/machine-learning/).
+
+#### Azure Lab Services 
+Easily set up and provide on-demand access to preconfigured virtual machines (VMs) to support your Data Science scenarios. Teach a class, train professionals, run a hackathon or a hands-on lab, and more. Simply define your needs and the service will roll the lab out to your audience. Users access all their lab VMs from a single place.
+"Try It Now" at: [https://labs.azure.com](https://labs.azure.com/).
 
 ### 1.3 Amazon SageMaker
 
