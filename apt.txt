@@ -1,4 +1,6 @@
 gcc
 python-dev
 libkrb5-dev
+pyspark
+default-jdk
 
