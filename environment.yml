@@ -1,0 +1,8 @@
+name: python 3.6
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - findspark
