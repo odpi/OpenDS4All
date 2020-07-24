@@ -1,0 +1,7 @@
+#!/bin/bash
+cd $HOME
+wget https://downloads.apache.org/spark/spark-3.0.0/spark-3.0.0-bin-hadoop3.2.tgz
+tar xf spark-3.0.0-bin-hadoop3.2.tgz
+
+export SPARK_HOME=$HOME/spark-3.0.0-bin/hadoop3.2
+

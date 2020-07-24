@@ -1,0 +1,4 @@
+gcc
+python-dev
+libkrb5-dev
+findspark
