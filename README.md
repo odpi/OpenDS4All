@@ -10,6 +10,10 @@ OpenDS4All attempts to fill this important niche.  Our goal is to provide recomm
 
 The project hosts educational modules that may be used as building blocks for a data science curriculum.
 
+__Note:__ The link **[opends4all-resources](opends4all-resources)** takes you to the opends4all curriculum building blocks organized by category.
+
+__Note:__ If you adopt all or some of the content, please add your program's details to the [ADOPTERS.csv](ADOPTERS.csv) file.
+
 # Audience (Instructor and Student)
 
 The initial modules were designed to target a broad, cross-university audience at both the undergraduate and graduate levels.  Modules contain instructor notes and comments intended to aid in the delivery of the material; the expectation is that instructors will be generally fluent in basic database and machine learning concepts.
@@ -61,6 +65,10 @@ OpenDS4All is a project hosted by [ODPi](https://odpi.org). This project has est
 # Reporting Issues
 
 To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is sensitive in nature or a security related issue, please do not report in the issue tracker but instead email odpi-opends4all-private@lists.odpi.org.
+
+# Contact Us
+
+If you want to contact us, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email odpi-opends4all-private@lists.odpi.org.
 
 # Learn More
 
