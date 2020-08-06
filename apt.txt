@@ -1,0 +1,5 @@
+gcc
+python-dev
+libkrb5-dev
+default-jdk
+

@@ -2,6 +2,8 @@
 
 ![GitHub](https://img.shields.io/github/license/odpi/opends4all)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/odpi/OpenDS4All/binder?filepath=opends4all-resources%2F)
+
 # Description
 
 OpenDS4All is a project created to accelerate the creation of data science curricula at academic institutions. While a great deal of online material is available for data science, **including** online courses, we recognize that the **best** way for many students to learn (and for many institutions to deliver) content is through a combination of lectures, recitation or flipped classroom activities, and hands-on assignments.
