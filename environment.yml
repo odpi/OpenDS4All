@@ -6,3 +6,6 @@ dependencies:
   - matplotlib
   - scikit-learn
   - findspark
+  - pyspark
+  - nbserverproxy
+  - py4j

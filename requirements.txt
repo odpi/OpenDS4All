@@ -1,3 +1,0 @@
-pyspark
-nbserverproxy
-py4j

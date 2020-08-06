@@ -3,7 +3,6 @@ cd $HOME
 wget https://downloads.apache.org/spark/spark-3.0.0/spark-3.0.0-bin-hadoop3.2.tgz
 tar xf spark-3.0.0-bin-hadoop3.2.tgz
 
-pip3 install pyspark nbserverproxy py4j
 export SPARK_HOME=$HOME/spark-3.0.0-bin/hadoop3.2
 export PATH=$SPARK_HOME/bin:$PATH
 export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
