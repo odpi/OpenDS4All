@@ -2,6 +2,4 @@ gcc
 python-dev
 libkrb5-dev
 default-jdk
-nbserverproxy
-py4j
 
