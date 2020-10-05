@@ -13,6 +13,7 @@ Additionally, we recommend [Towards Data Science](https://towardsdatascience.com
 ## Courses Using OpenDS4All Materials
 
 * The University of Pennsylvania's CIS 545, Big Data Analytics, www.cis.upenn.edu/~cis545
+* See [ADOPTERS.csv](ADOPTERS.csv) for additional universities and courses that adopted some or all of the content of OpenDS4ALL.
 
 ## Background Material
 
