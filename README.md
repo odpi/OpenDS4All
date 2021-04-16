@@ -62,20 +62,20 @@ Anyone can contribute to this repository - learn more at [CONTRIBUTING.md](CONTR
 
 # Governance
 
-OpenDS4All is a project hosted by [ODPi](https://odpi.org). This project has established its own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+OpenDS4All is a project hosted by [LF AI & DATA](https://odpi.org). This project has established its own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
 
 # Reporting Issues
 
-To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is sensitive in nature or a security related issue, please do not report in the issue tracker but instead email odpi-opends4all-private@lists.odpi.org.
+To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is sensitive in nature or a security related issue, please do not report in the issue tracker but instead email opends4all-technical-discuss@lists.lfaidata.foundation.
 
-# Contact Us
+# Contact Us 
 
-If you want to contact us, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email odpi-opends4all-private@lists.odpi.org.
+If you want to contact us, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email opends4all-technical-discuss@lists.lfaidata.foundation.
 
 # Learn More
 
-If you are interested in collaborating on the project, please [sign up](https://cloud.email.thelinuxfoundation.org/ODPi-OpenDS4All).
+If you are interested in collaborating on the project, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email opends4all-technical-discuss@lists.lfaidata.foundation.
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi OpenDS4All project.
+Copyright Contributors to the LF AI & DATA OpenDS4All project.
