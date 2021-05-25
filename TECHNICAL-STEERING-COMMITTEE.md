@@ -5,6 +5,12 @@
 
 This file recognizes the people who have make an important contribution to the Technical Steering Committee of OpenDS4All.
 
+To receive the **OpenDS4All - Technical Steering Committee badge**, the recipient needs to satisfy the following critria:
+- Be an active member of the Technical Steering Committee for at least 1 year
+
+The OpenDS4All Technical Steering Committee will evaluate the recipient's contribution and approve/disapprove whether a badge will be issued or not.
+
+
 | Name           | Email or GitHub Id |
 | -------------- | -----------------
 | Andre de Waal | andre.dewaal@ibm.com |
