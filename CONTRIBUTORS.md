@@ -24,6 +24,8 @@ The OpenDS4All Technical Steering Committee will evaluate the recipient's contri
 | Zack Ives | zives@cis.upenn.edu  |
 | Leshang Chen | chenleshang@gmail.com  |
 | Andre de Waal | andre.dewaal@ibm.com |
+| Houhua Li | chelsea000719@gmail.com |
+| Ruohua Li | eric.huahua1999@gmail.com |
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
