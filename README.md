@@ -4,6 +4,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/odpi/OpenDS4All/binder?filepath=opends4all-resources%2F)
 
+# Success Story - One-of-a-Kind Workshop to University of Liverpool Students
+
+[Bootcamp-style OpenDS4All workshop where students could enhance their theoretical knowledge with hands-on, industry-focused experience.](https://www.ibm.com/cloud/blog/expert-labs-offers-one-of-a-kind-workshop-to-university-of-liverpool-students)
+
+
 # Description
 
 OpenDS4All is a project created to accelerate the creation of data science curricula at academic institutions. While a great deal of online material is available for data science, **including** online courses, we recognize that the **best** way for many students to learn (and for many institutions to deliver) content is through a combination of lectures, recitation or flipped classroom activities, and hands-on assignments.
