@@ -4,6 +4,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/odpi/OpenDS4All/binder?filepath=opends4all-resources%2F)
 
+# Success Story - One-of-a-Kind Workshop to University of Liverpool Students
+
+[Bootcamp-style OpenDS4All workshop where students could enhance their theoretical knowledge with hands-on, industry-focused experience.](https://www.ibm.com/cloud/blog/expert-labs-offers-one-of-a-kind-workshop-to-university-of-liverpool-students)
+
+
 # Description
 
 OpenDS4All is a project created to accelerate the creation of data science curricula at academic institutions. While a great deal of online material is available for data science, **including** online courses, we recognize that the **best** way for many students to learn (and for many institutions to deliver) content is through a combination of lectures, recitation or flipped classroom activities, and hands-on assignments.
@@ -62,20 +67,20 @@ Anyone can contribute to this repository - learn more at [CONTRIBUTING.md](CONTR
 
 # Governance
 
-OpenDS4All is a project hosted by [ODPi](https://odpi.org). This project has established its own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+OpenDS4All is a project hosted by [LF AI & DATA](https://odpi.org). This project has established its own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
 
 # Reporting Issues
 
-To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is sensitive in nature or a security related issue, please do not report in the issue tracker but instead email odpi-opends4all-private@lists.odpi.org.
+To report a problem, you can open an [issue](https://github.com/odpi/OpenDS4All/issues). If the issue is sensitive in nature or a security related issue, please do not report in the issue tracker but instead email opends4all-technical-discuss@lists.lfaidata.foundation.
 
-# Contact Us
+# Contact Us 
 
-If you want to contact us, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email odpi-opends4all-private@lists.odpi.org.
+If you want to contact us, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email opends4all-technical-discuss@lists.lfaidata.foundation.
 
 # Learn More
 
-If you are interested in collaborating on the project, please [sign up](https://cloud.email.thelinuxfoundation.org/ODPi-OpenDS4All).
+If you are interested in collaborating on the project, please open an [issue](https://github.com/odpi/OpenDS4All/issues) and one of the members of the TSC will respond to your request.  If you do not feel comfortable opening an Issue, email opends4all-technical-discuss@lists.lfaidata.foundation.
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi OpenDS4All project.
+Copyright Contributors to the LF AI & DATA OpenDS4All project.
