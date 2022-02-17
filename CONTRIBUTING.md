@@ -41,6 +41,20 @@ The __minimum requirement__ for a module to be considered for inclusion in this 
 
 Read the specifications in the [NAMING-CONVENTIONS.md](NAMING-CONVENTIONS.md) file to learn home to name your modules to facilitate search. 
 
+## Data Use Cases
+
+This repository now also accepts data use cases. 
+
+Data use cases should include:
+
+- One or more data sets
+- A description of: 
+  - The purpose / goal of analyzing this data and what business problem(s) can be solved with similar data (objective)?
+  - The data set
+  - The origin of the data (source)
+  - The features of the data set (attribute information)
+- A Jupyter Notebook illustrating how the data is analysed
+
 ## General
 
 OpenDS4All accepts any contributions made from the community at large, with the following guidelines...
