@@ -26,6 +26,18 @@ The OpenDS4All Technical Steering Committee will evaluate the recipient's contri
 | Andre de Waal | andre.dewaal@ibm.com |
 | Houhua Li | chelsea000719@gmail.com |
 | Ruohua Li | eric.huahua1999@gmail.com |
+| Bhargav Shetgaonkar | bhargav.shetgaonkar9@gmail.com |
+| Robert Baldoni | robertbaldonijr@gmail.com |
+| Maria Williams | mariaWilliams.Professional@gmail.com |
+| Kanan Bakirli | kanan.bk@gmail.com |
+| Sanjana Pasnuri | lakshmi.sanjana.reddy.pasnuri@gmail.com |
+| Monikuntala Saikia | Monikuntala.saikia@gmail.com |
+| Vaishnavi Shankar | Vaishnavi.shankara@gmail.com |
+| Nithisha Katasani | Nithishareddy.katasani@gmail.com |
+| Kiran Tejaswi Alluru | teja.alluru@gmail.com |
+| Shephali Jain | Sheff.jain@gmail.com |
+| Harsha Chetty | harshachetty3092@gmail.com |
+| Akshay Anand | anand.akshay11@gmail.com |
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
