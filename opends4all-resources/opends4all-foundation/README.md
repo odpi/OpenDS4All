@@ -9,8 +9,8 @@ For those students unfamiliar with probability theory and very basic statistical
 ## Directory Contents
 
 * Overview / review of computer architecture basics, including CPUs and memory hierarchy: HOW-COMPUTERS-WORK-cpu-memory-ssd-basic [slides](HOW-COMPUTERS-WORK-cpu-memory-ssd-basic.pptx).
-* Graph theory basics, including network centrality and breadth-first search: GRAPH-THEORY-basic [slides](GRAPH-THEORY-basic).
-* Summary statistics and probability distributions: DATA-EXPLORATION-Summary-Statistics-intro [slides](DATA-EXPLORATION-Summary-Statistics-intro.ppt) 
+* Graph theory basics, including network centrality and breadth-first search: GRAPH-THEORY-basic [slides](GRAPH-THEORY-basic.pptx).
+* Summary statistics and probability distributions: DATA-EXPLORATION-Summary-Statistics-intro [slides](DATA-EXPLORATION-Summary-Statistics-intro.pptx) 
 
 ## Release History
 
