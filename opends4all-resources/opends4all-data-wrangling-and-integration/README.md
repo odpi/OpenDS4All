@@ -2,6 +2,8 @@
 
 This set of modules covers the critical topics of **data wrangling** and **data integration**.  Many data scientists, data engineers, and data consultants report that over 80% of their time is spent on these tasks -- rather than on actual data analysis or machine learning.  This module introduces the basic concepts, and the major Python (especially Pandas) capabilities for data wrangling and cleaning.  It also makes use of the **Magellan** Python record linking package by Doan and his students (http://pages.cs.wisc.edu/~anhai/papers/magellan-tr.pdf).  We consider this module to be of "mixed" difficulty, with some basic and some intermediate components.
 
+For those students unfamiliar with basic data wrangling and integration, additional introductory material on data cleaning, feature engineering, and feature selection will help them better understand the content of the other lectures. 
+
 [Additional instructor notes](Instructor_Notes.md) are available.
 
 ## Directory Contents
@@ -10,8 +12,12 @@ This set of modules covers the critical topics of **data wrangling** and **data 
  
   * DATA-WRANGLING-import-link-mixed [slides](DATA-WRANGLING-import-link-mixed.pptx).  Section headings indicate difficulty level (basic vs intermediate).
   * DATA-WRANGLING-import-link-mixed companion [Jupyter notebook](DATA-WRANGLING-import-link-mixed.ipynb)
+  * DATA-CLEANING-Quality-intro [slides](DATA-CLEANING-Quality-intro.pptx)
+  * FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro [slides](FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro.pptx)
+  * FEATURE-SELECTION-Overview-Principle-Component-intro [slides](FEATURE-SELECTION-Overview-Principle-Component-intro.pptx)
 *  Homework [notebook](DATA-WRANGLING-Homework-mixed.ipynb)
 
 ## Release History
 
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
+* Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022
