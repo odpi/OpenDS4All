@@ -2,6 +2,8 @@
 
 A key part of data science -- and the part most people immediately gravitate towards -- is the use of machine learning techniques to build descriptive or predictive models of data.  This module covers the basics of unsupervised and supervised machine learning.
 
+For those students new to machine learning and coming from other disciplines, an introductory lecture and additional introductory material on classification, assosiation rules, clustering, and linear regression will help them better understand the content of the other lectures.
+
 ## Directory Contents
 
 * Matrices, features, and unsupervised machine learning:
@@ -16,9 +18,15 @@ A key part of data science -- and the part most people immediately gravitate tow
 * Neural networks:
   * Basic neural networks and gradient descent [slides](SUPERVISED-ML-NN-neural-nets-intermediate.pptx) (intermediate).
   * Basic neural networks and gradient descent companion [Jupyter notebook](SUPERVISED-ML-NN-neural-nets-intermediate.ipynb) (intermediate).
+* OVERVIEW-MACHINE-LEARNING-Models-intro [slides](OVERVIEW-MACHINE-LEARNING-Models-intro.pptx)
+* ASSOCIATION-RULES-Mining-Apriori-intro [slides](ASSOCIATION-RULES-Mining-Apriori-intro.pptx)
+* CLUSTERING-Kmeans-Index-intro [slides](CLUSTERING-Kmeans-Index-intro.pptx)
+* DATA-CLASSIFICATION-Decision-Tree-KNN-intro [slides](DATA-CLASSIFICATION-Decision-Tree-KNN-intro.pptx)
+* REGRESSION-Linear-Residuals-Metrics-intro.pptx [slides](REGRESSION-Linear-Residuals-Metrics-intro.pptx)
 * Machine learning [Homework](MACHINE-LEARNING-Homework.ipynb).
 
 ## Release History
 
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
+* Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022.
 
