@@ -23,10 +23,14 @@ For those students new to machine learning and coming from other disciplines, an
 * CLUSTERING-Kmeans-Index-intro [slides](CLUSTERING-Kmeans-Index-intro.pptx)
 * DATA-CLASSIFICATION-Decision-Tree-KNN-intro [slides](DATA-CLASSIFICATION-Decision-Tree-KNN-intro.pptx)
 * REGRESSION-Linear-Residuals-Metrics-intro.pptx [slides](REGRESSION-Linear-Residuals-Metrics-intro.pptx)
-* Machine learning [Homework](MACHINE-LEARNING-Homework.ipynb).
+* Machine learning [Homework](MACHINE-LEARNING-Homework.ipynb)
+* Transfer learning:
+  * TRANSFER-LEARNING-Computer-Vision-intermediate.pptx [slides](TRANSFER-LEARNING-Computer-Vision-intermediate.pptx) (intermediate)
+  * TRANSFER-LEARNING-Computer-Vision-Tensorflow-intermediate.ipynb [Jupyter Notebook](TRANSFER-LEARNING-Computer-Vision-Tensorflow-intermediate.ipynb) (intermediate)
 
 ## Release History
 
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
 * Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022.
+* Module on transfer learning, Sumedh Datar, November 2022.
 
