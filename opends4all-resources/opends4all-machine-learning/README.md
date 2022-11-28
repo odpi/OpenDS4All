@@ -11,6 +11,11 @@ For those students new to machine learning and coming from other disciplines, an
   * Unsupervised machine learning companion [Jupyter notebook](UNSUPERVISED-ML-matrices-pca-clustering-basic.ipynb) (basic).
 * Overview of supervised machine learning:
   * Overview, decision trees, and random forests [slides](SUPERVISED-ML-OVERVIEW-trees-forests-basic.pptx) (basic).
+  * Overview, decision trees, and random forests [video](SUPERVISED-ML-OVERVIEW-trees-forests-basic-part1.mp4) (basic).
+  * Overview, decision trees, and random forests [video](SUPERVISED-ML-OVERVIEW-trees-forests-basic-part2.mp4) (basic).
+  * Overview, decision trees, and random forests [video](SUPERVISED-ML-OVERVIEW-trees-forests-basic-part3.mp4) (basic).
+  * Overview, decision trees, and random forests [video](SUPERVISED-ML-OVERVIEW-trees-forests-basic-part4.mp4) (basic).
+  * Overview, decision trees, and random forests [video](SUPERVISED-ML-OVERVIEW-trees-forests-basic-part5.mp4) (basic).
   * Overview, decision trees, and random forests companion [Jupyter notebook](SUPERVISED-ML-OVERVIEW-trees-forests-basic.ipynb) (basic).
 * Logistic and linear regression:
   * Logistic and linear regression [slides](SUPERVISED-ML-regression-basic.pptx)  (basic).
@@ -33,4 +38,5 @@ For those students new to machine learning and coming from other disciplines, an
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
 * Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022.
 * Module on transfer learning, Sumedh Datar, November 2022.
+* Videos on overview of supervised machine learning with decision trees and random forests, Tomislav Galjanic, Columbia University, November 2022.
 
