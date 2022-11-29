@@ -34,6 +34,7 @@ The OpenDS4All Technical Steering Committee will evaluate the recipient's contri
 | Monikuntala Saikia | Monikuntala.saikia@gmail.com |
 | Vaishnavi Shankar | Vaishnavi.shankara@gmail.com |
 | Nithisha Katasani | Nithishareddy.katasani@gmail.com |
+| Sumedh Vilas Datar | sumedh.datar@gmail.com |
 | Kiran Tejaswi Alluru | teja.alluru@gmail.com |
 | Shephali Jain | Sheff.jain@gmail.com |
 | Harsha Chetty | harshachetty3092@gmail.com |
