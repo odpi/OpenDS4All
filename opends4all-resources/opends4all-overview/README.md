@@ -7,11 +7,15 @@ For those students from disciplines other than computer science, additional intr
 ## Directory Contents
 
 * [An in-class or after-class quiz](Quiz.md)
-* Overview [slides](INTRODUCTION-Data-Science-basic.pptx)
-* Introduction to Data Science [slides](INTRODUCTION-DATA-SCIENCE-intro.pptx)
+* Introduction: What is Data Science?
+  * Overview of data science [slides](INTRODUCTION-Data-Science-basic.pptx) (basic)
+  * Overview of data science [video](INTRODUCTION-Data-Science-basic-part1.mp4) (basic)
+  * Overview of data science [video](INTRODUCTION-Data-Science-basic.part2.mp4) (basic)
+* Introduction to Data Science [slides](INTRODUCTION-DATA-SCIENCE-intro.pptx) (intro)
 
 ## Release History
 
-* Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020
-* Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022
+* Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
+* Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022.
+* Videos on overview of data science, Yucen Wang, Columbia University, November 2022.
 
