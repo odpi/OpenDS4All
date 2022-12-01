@@ -11,6 +11,9 @@ For those students unfamiliar with basic data wrangling and integration, additio
 * Data wrangling and import lecture materials:
  
   * DATA-WRANGLING-import-link-mixed [slides](DATA-WRANGLING-import-link-mixed.pptx).  Section headings indicate difficulty level (basic vs intermediate).
+  * DATA-WRANGLING-import-link-mixed-part1 [video](DATA-WRANGLING-import-link-mixed-part1.mp4)
+  * DATA-WRANGLING-import-link-mixed-part2 [video](DATA-WRANGLING-import-link-mixed-part2.mp4)
+  * DATA-WRANGLING-import-link-mixed-part3 [video](DATA-WRANGLING-import-link-mixed-part3.mp4)
   * DATA-WRANGLING-import-link-mixed companion [Jupyter notebook](DATA-WRANGLING-import-link-mixed.ipynb)
   * DATA-CLEANING-Quality-intro [slides](DATA-CLEANING-Quality-intro.pptx)
   * FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro [slides](FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro.pptx)
@@ -20,4 +23,5 @@ For those students unfamiliar with basic data wrangling and integration, additio
 ## Release History
 
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
-* Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022
+* Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022.
+* Videos on getting started in data science with data acquisition and data wrangling, Renyin Zhang, Columbia University, November 2022.
