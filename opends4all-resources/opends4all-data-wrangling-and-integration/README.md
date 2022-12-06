@@ -16,6 +16,7 @@ For those students unfamiliar with basic data wrangling and integration, additio
   * DATA-WRANGLING-import-link-mixed-part3 [video](DATA-WRANGLING-import-link-mixed-part3.mp4)
   * DATA-WRANGLING-import-link-mixed companion [Jupyter notebook](DATA-WRANGLING-import-link-mixed.ipynb)
   * DATA-CLEANING-Quality-intro [slides](DATA-CLEANING-Quality-intro.pptx)
+  * DATA-CLEANING-Quality-intro [video](DATA-CLEANING-Quality-intro.mp4)
   * FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro [slides](FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro.pptx)
   * FEATURE-SELECTION-Overview-Principle-Component-intro [slides](FEATURE-SELECTION-Overview-Principle-Component-intro.pptx)
 *  Homework [notebook](DATA-WRANGLING-Homework-mixed.ipynb)
@@ -25,3 +26,4 @@ For those students unfamiliar with basic data wrangling and integration, additio
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
 * Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022.
 * Videos on getting started in data science with data acquisition and data wrangling, Renyin Zhang, Columbia University, November 2022.
+* Video on data cleaning with a focus on data quality, Stephanie Guo, Columbia University, November 2022.
