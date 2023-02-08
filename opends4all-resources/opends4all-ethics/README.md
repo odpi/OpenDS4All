@@ -10,9 +10,11 @@ A good data scientist needs to understand the ethical issues surrounding the dat
 * AI-TRUST-Explainability-Explainability-Image-Classification-intermediate [Jupyter notebook](AI-TRUST-Explainability-Image-Classification-intermediate.ipynb).
 * AI-TRUST-Explainability-Aix360-intermediate-part1 [video](AI-TRUST-Explainability-Aix360-intermediate-part1.mp4).
 * AI-TRUST-Explainability-Aix360-intermediate-part2 [video](AI-TRUST-Explainability-Aix360-intermediate-part2.mp4).
+* ETHICS-Trust-Data-Algorithms-Ai-basic [slides](ETHICS-Trust-Data-Algorithms-Ai-basic.pptx)
 
 ## Release History
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
 * AI Trust, focussing on explainability and the Aix360 toolkit, Kanan Bakirli & Robert Baldoni & Bhargav Shetgaonkar & Maria Williams, Duke University, April 2022.
 * Videos on AI trust and explainability with the Aix360 toolkit, Rahul Singh, Columbia University, November 2022.
 * Videos on ethics, privacy and fairness, Abhishek Sinha, Columbia University, November 2022.
+* Module on ethics for data and AI, Rachel Amity Brown, IBM, February 2023.
