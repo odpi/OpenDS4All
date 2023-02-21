@@ -25,7 +25,10 @@ For those students new to machine learning and coming from other disciplines, an
   * Basic neural networks and gradient descent companion [Jupyter notebook](SUPERVISED-ML-NN-neural-nets-intermediate.ipynb) (intermediate).
 * OVERVIEW-MACHINE-LEARNING-Models-intro [slides](OVERVIEW-MACHINE-LEARNING-Models-intro.pptx)
 * ASSOCIATION-RULES-Mining-Apriori-intro [slides](ASSOCIATION-RULES-Mining-Apriori-intro.pptx)
-* CLUSTERING-Kmeans-Index-intro [slides](CLUSTERING-Kmeans-Index-intro.pptx)
+* CLUSTERING
+  * CLUSTERING-Kmeans-Index-intro [slides](CLUSTERING-Kmeans-Index-intro.pptx)
+  * CLUSTERING-Kmeans-Index-intro-part1 [video](CLUSTERING-Kmeans-Index-intro-part1.pptx)
+  * CLUSTERING-Kmeans-Index-intro-part2 [video](CLUSTERING-Kmeans-Index-intro-part2.pptx)
 * DATA-CLASSIFICATION-Decision-Tree-KNN-intro [slides](DATA-CLASSIFICATION-Decision-Tree-KNN-intro.pptx)
 * REGRESSION-Linear-Residuals-Metrics-intro.pptx [slides](REGRESSION-Linear-Residuals-Metrics-intro.pptx)
 * Machine learning [Homework](MACHINE-LEARNING-Homework.ipynb)
@@ -39,4 +42,5 @@ For those students new to machine learning and coming from other disciplines, an
 * Supporting introductory material, Xumin Liu, Rochester Institute of Technology, August 2022.
 * Module on transfer learning, Sumedh Datar, November 2022.
 * Videos on overview of supervised machine learning with decision trees and random forests, Tomislav Galjanic, Columbia University, November 2022.
+* Videos on K-means clustering, Varalika Mahajan, Columbia University, February 2023.
 
