@@ -27,8 +27,8 @@ For those students new to machine learning and coming from other disciplines, an
 * ASSOCIATION-RULES-Mining-Apriori-intro [slides](ASSOCIATION-RULES-Mining-Apriori-intro.pptx)
 * CLUSTERING
   * CLUSTERING-Kmeans-Index-intro [slides](CLUSTERING-Kmeans-Index-intro.pptx)
-  * CLUSTERING-Kmeans-Index-intro-part1 [video](CLUSTERING-Kmeans-Index-intro-part1.pptx)
-  * CLUSTERING-Kmeans-Index-intro-part2 [video](CLUSTERING-Kmeans-Index-intro-part2.pptx)
+  * CLUSTERING-Kmeans-Index-intro-part1 [video](CLUSTERING-Kmeans-Index-intro-part1.mp4)
+  * CLUSTERING-Kmeans-Index-intro-part2 [video](CLUSTERING-Kmeans-Index-intro-part2.mp4)
 * DATA-CLASSIFICATION-Decision-Tree-KNN-intro [slides](DATA-CLASSIFICATION-Decision-Tree-KNN-intro.pptx)
 * REGRESSION-Linear-Residuals-Metrics-intro.pptx [slides](REGRESSION-Linear-Residuals-Metrics-intro.pptx)
 * Machine learning [Homework](MACHINE-LEARNING-Homework.ipynb)
