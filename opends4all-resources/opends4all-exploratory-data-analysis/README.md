@@ -10,9 +10,11 @@ For those students unfamiliar with basic exploratory data analysis, additional i
 * Visual analytics (information visualization) [Jupyter notebook](VISUAL-ANALYTICS-visualization.ipynb)
 * Data visualization [slides](DATA-VISUALIZATION-intro.pptx)
 * Data exploration and visualization census case study [slides](DATA-EXPLORATION-VISUALIZATION-Case-Study-Cencus-intro.pptx)
-* Data exploration and visualization COVID case study [slides](DATA-EXPLORATION-VISUALIZATION-Case-Study-Covid-intro.pptx) 
+* Data exploration and visualization COVID case study [slides](DATA-EXPLORATION-VISUALIZATION-Case-Study-Covid-intro.pptx)
+* Data exploration and visualization COVID case study [video](DATA-EXPLORATION-VISUALIZATION-Case-Study-Covid-intro.mp4)
 
 ## Release History
 
 * Initial release, Susan Davidson and Zachary Ives, University of Pennsylvania, February 2020.
-* Supporting introductory material and use cases, Xumin Liu, Rochester Institute of Technology, August 2022
+* Supporting introductory material and use cases, Xumin Liu, Rochester Institute of Technology, August 2022.
+* Video on data exploration and visualization of a COVID case study, Varalika Mahajan, Columbia University, February 2023.
