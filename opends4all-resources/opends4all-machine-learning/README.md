@@ -19,7 +19,9 @@ For those students new to machine learning and coming from other disciplines, an
   * Overview, decision trees, and random forests companion [Jupyter notebook](SUPERVISED-ML-OVERVIEW-trees-forests-basic.ipynb) (basic).
 * Logistic and linear regression:
   * Logistic and linear regression [slides](SUPERVISED-ML-regression-basic.pptx)  (basic).
+  * Logistic and linear regression [video](SUPERVISED-ML-regression-basic.mp4)  (basic).
   * Logistic and linear regression companion [Jupyter notebook](SUPERVISED-ML-regression-basic.ipynb) (basic).
+  * Logistic and linear regression companion [video](SUPERVISED-ML-regression-basic-notebook.mp4) (basic).
 * Neural networks:
   * Basic neural networks and gradient descent [slides](SUPERVISED-ML-NN-neural-nets-intermediate.pptx) (intermediate).
   * Basic neural networks and gradient descent companion [Jupyter notebook](SUPERVISED-ML-NN-neural-nets-intermediate.ipynb) (intermediate).
@@ -30,7 +32,8 @@ For those students new to machine learning and coming from other disciplines, an
   * CLUSTERING-Kmeans-Index-intro-part1 [video](CLUSTERING-Kmeans-Index-intro-part1.mp4)
   * CLUSTERING-Kmeans-Index-intro-part2 [video](CLUSTERING-Kmeans-Index-intro-part2.mp4)
 * DATA-CLASSIFICATION-Decision-Tree-KNN-intro [slides](DATA-CLASSIFICATION-Decision-Tree-KNN-intro.pptx)
-* REGRESSION-Linear-Residuals-Metrics-intro.pptx [slides](REGRESSION-Linear-Residuals-Metrics-intro.pptx)
+* REGRESSION-Linear-Residuals-Metrics-intro [slides](REGRESSION-Linear-Residuals-Metrics-intro.pptx)
+* REGRESSION-Linear-Residuals-Metrics-intro [video](REGRESSION-Linear-Residuals-Metrics-intro.mp4)
 * Machine learning [Homework](MACHINE-LEARNING-Homework.ipynb)
 * Transfer learning:
   * TRANSFER-LEARNING-Computer-Vision-intermediate.pptx [slides](TRANSFER-LEARNING-Computer-Vision-intermediate.pptx) (intermediate)
@@ -43,4 +46,6 @@ For those students new to machine learning and coming from other disciplines, an
 * Module on transfer learning, Sumedh Datar, November 2022.
 * Videos on overview of supervised machine learning with decision trees and random forests, Tomislav Galjanic, Columbia University, November 2022.
 * Videos on K-means clustering, Varalika Mahajan, Columbia University, February 2023.
-
+* Video on linear regression, residuals and metrics, Lylybell Teran, Columbia University, March 2023.
+* Video on linear and logistic regression, Lylybell Teran, Columbia University, March 2023.
+* Videos on linear and logistic regression Jupyter notebook, Lylybell Teran, Columbia University, March 2023.
