@@ -15,6 +15,8 @@ For those students unfamiliar with basic data wrangling and integration, additio
   * DATA-WRANGLING-import-link-mixed-part2 [video](DATA-WRANGLING-import-link-mixed-part2.mp4)
   * DATA-WRANGLING-import-link-mixed-part3 [video](DATA-WRANGLING-import-link-mixed-part3.mp4)
   * DATA-WRANGLING-import-link-mixed companion [Jupyter notebook](DATA-WRANGLING-import-link-mixed.ipynb)
+  * DATA-WRANGLING-import-link-mixed-notebook-part1 [video](DATA-WRANGLING-import-link-mixed-notebook-part1.mp4)
+  * DATA-WRANGLING-import-link-mixed-notebook-part2 [video](DATA-WRANGLING-import-link-mixed-notebook-part2.mp4)
   * DATA-CLEANING-Quality-intro [slides](DATA-CLEANING-Quality-intro.pptx)
   * DATA-CLEANING-Quality-intro [video](DATA-CLEANING-Quality-intro.mp4)
   * FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro [slides](FEATURE-ENGINEERING-Encoding-Scaling-Binning-intro.pptx)
@@ -29,3 +31,4 @@ For those students unfamiliar with basic data wrangling and integration, additio
 * Videos on getting started in data science with data acquisition and data wrangling, Renyin Zhang, Columbia University, November 2022.
 * Video on data cleaning with a focus on data quality, Stephanie Guo, Columbia University, November 2022.
 * Video on feature selection with a focus on principle component analysis, Lylybell Teran, Columbia University, February 2023.
+* Videos on data wrangling Jupyter Notebook with Python code, Sanket Bhandari, Columbia University, March 2023.
