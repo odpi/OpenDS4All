@@ -11,6 +11,8 @@
 
 # Description
 
+NOTE - DUE TO INACTIVITY, THIS PROJECT WAS ARCHIVED IN JUNE 2026. The contents will remain available for historical purposes. 
+
 OpenDS4All is a project created to accelerate the creation of data science curricula at academic institutions. While a great deal of online material is available for data science, **including** online courses, we recognize that the **best** way for many students to learn (and for many institutions to deliver) content is through a combination of lectures, recitation or flipped classroom activities, and hands-on assignments.
 
 OpenDS4All attempts to fill this important niche.  Our goal is to provide recommendations, slide sets, sample Jupyter notebooks, and other materials for creating, customizing, and delivering data science and data engineering education.
