@@ -1,3 +1,8 @@
+
+NOTICE: Due to inactivity, this Project Was Archived in June 2026. The contents will remain available for historical purposes. 
+
+
+
 ![](https://github.com/odpi/artwork/blob/master/projects/opends4all/odpiopends4all-color.svg)
 
 ![GitHub](https://img.shields.io/github/license/odpi/opends4all)
